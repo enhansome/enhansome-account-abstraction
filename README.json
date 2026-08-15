@@ -14,7 +14,7 @@
             "last_commit": "2025-03-14T13:34:50Z",
             "owner": "argentlabs",
             "repo": "argent-x",
-            "stars": 642
+            "stars": 641
           }
         },
         {
@@ -275,7 +275,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-05T07:02:10Z",
+            "last_commit": "2026-08-14T15:27:24Z",
             "owner": "safe-fndn",
             "repo": "safe-smart-account",
             "stars": 2170
@@ -533,7 +533,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T13:31:22Z",
+            "last_commit": "2026-08-14T16:08:53Z",
             "owner": "alchemyplatform",
             "repo": "rundler",
             "stars": 390
@@ -651,7 +651,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T13:50:08Z",
+            "last_commit": "2026-08-14T15:39:23Z",
             "owner": "etherspot",
             "repo": "arka",
             "stars": 67
@@ -780,7 +780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T10:40:55.685Z",
+    "last_updated": "2026-08-15T10:00:17.079Z",
     "original_repository": "4337Mafia/awesome-account-abstraction",
     "original_repository_sha": "058a41cfd7bc5cbb804affcb43b7152740666c03",
     "enhanced_repository": "enhansome/enhansome-account-abstraction",
