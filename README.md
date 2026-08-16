@@ -186,7 +186,7 @@
 ### Paymasters
 
 * [Paymaster contracts](https://github.com/pimlicolabs/erc20-paymaster-contracts) ⚠️ Archived by Pimlico
-* [Arka Paymaster (open source paymaster service)](https://github.com/etherspot/arka) ⭐ 67 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-14 by Etherspot
+* [Arka Paymaster (open source paymaster service)](https://github.com/etherspot/arka) ⭐ 67 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-16 by Etherspot
 * [Paymaster Playground](https://github.com/bcnmy/biconomy-paymasters) ⭐ 48 | 🐛 0 | 🌐 TypeScript | 📅 2024-10-10 by Biconomy
 * [Python Implementation](https://github.com/candidelabs/Candide-Paymaster-RPC) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2023-05-10 by Candide
 * [Governance Paymasters (open source paymasters that operate fully on-chain)](https://github.com/meliopolis/governance-paymaster) ⭐ 0 | 🐛 0 | 🌐 Solidity | 📅 2024-04-24
@@ -212,7 +212,7 @@
 
 ### RPC Providers
 
-* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 915 | 🐛 1,252 | 📅 2025-08-28
+* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 915 | 🐛 1,253 | 📅 2025-08-28
 
 ### L2 Integration API
 
@@ -315,4 +315,4 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._

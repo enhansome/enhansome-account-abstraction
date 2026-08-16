@@ -651,7 +651,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T15:39:23Z",
+            "last_commit": "2026-08-16T08:13:40Z",
             "owner": "etherspot",
             "repo": "arka",
             "stars": 67
@@ -780,7 +780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T10:00:17.079Z",
+    "last_updated": "2026-08-16T10:00:59.745Z",
     "original_repository": "4337Mafia/awesome-account-abstraction",
     "original_repository_sha": "058a41cfd7bc5cbb804affcb43b7152740666c03",
     "enhanced_repository": "enhansome/enhansome-account-abstraction",
