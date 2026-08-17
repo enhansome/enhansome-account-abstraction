@@ -166,7 +166,7 @@
 * [Forum Wallet](https://github.com/forumdaos/forum-contracts) ⭐ 20 | 🐛 0 | 🌐 Solidity | 📅 2024-08-30
 * [Patch Wallet](https://github.com/PaymagicXYZ/patch-base-account-contracts) ⭐ 15 | 🐛 1 | 🌐 Solidity | 📅 2023-10-05
 * [TrueWallet](https://github.com/TrueWallet/contracts) ⭐ 9 | 🐛 1 | 🌐 Solidity | 📅 2024-08-11
-* [Shakespay](https://github.com/shakesco/shakesco-contracts/) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-29
+* [Shakespay](https://github.com/shakesco/shakesco-contracts/) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-16
 * [Kriptonio](https://kriptonio.com)
 * [Stackup](https://github.com/stackup-wallet/)
 * [thirdweb](https://thirdweb.com/explore/smart-wallet)
@@ -186,7 +186,7 @@
 ### Paymasters
 
 * [Paymaster contracts](https://github.com/pimlicolabs/erc20-paymaster-contracts) ⚠️ Archived by Pimlico
-* [Arka Paymaster (open source paymaster service)](https://github.com/etherspot/arka) ⭐ 67 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-16 by Etherspot
+* [Arka Paymaster (open source paymaster service)](https://github.com/etherspot/arka) ⭐ 67 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-16 by Etherspot
 * [Paymaster Playground](https://github.com/bcnmy/biconomy-paymasters) ⭐ 48 | 🐛 0 | 🌐 TypeScript | 📅 2024-10-10 by Biconomy
 * [Python Implementation](https://github.com/candidelabs/Candide-Paymaster-RPC) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2023-05-10 by Candide
 * [Governance Paymasters (open source paymasters that operate fully on-chain)](https://github.com/meliopolis/governance-paymaster) ⭐ 0 | 🐛 0 | 🌐 Solidity | 📅 2024-04-24
@@ -212,7 +212,7 @@
 
 ### RPC Providers
 
-* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 915 | 🐛 1,253 | 📅 2025-08-28
+* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 915 | 🐛 1,254 | 📅 2025-08-28
 
 ### L2 Integration API
 
@@ -225,8 +225,8 @@
 ### Misc
 
 * [WAX Fee Calculator](https://andrewmorris.io/wax-fee-calculator/)
-* [Example custom compressor for UserOperations](https://github.com/ethereum/research/blob/master/rollup_compression/4844_compress_complex.py) ⭐ 1,931 | 🐛 62 | 🌐 Python | 📅 2025-10-18
-  * [Example compression dictionary](https://github.com/ethereum/research/blob/master/rollup_compression/dicts.py) ⭐ 1,931 | 🐛 62 | 🌐 Python | 📅 2025-10-18
+* [Example custom compressor for UserOperations](https://github.com/ethereum/research/blob/master/rollup_compression/4844_compress_complex.py) ⭐ 1,930 | 🐛 62 | 🌐 Python | 📅 2025-10-18
+  * [Example compression dictionary](https://github.com/ethereum/research/blob/master/rollup_compression/dicts.py) ⭐ 1,930 | 🐛 62 | 🌐 Python | 📅 2025-10-18
 
 # Projects
 
@@ -315,4 +315,4 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
