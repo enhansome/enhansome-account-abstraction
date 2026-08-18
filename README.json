@@ -28,7 +28,7 @@
             "last_commit": "2025-06-25T18:03:02Z",
             "owner": "eth-infinitism",
             "repo": "bundler",
-            "stars": 395
+            "stars": 396
           }
         },
         {
@@ -53,7 +53,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T20:47:28Z",
+            "last_commit": "2026-08-17T19:16:53Z",
             "owner": "alchemyplatform",
             "repo": "aa-sdk",
             "stars": 321
@@ -306,7 +306,7 @@
             "last_commit": "2024-10-22T05:32:18Z",
             "owner": "Elytro-eth",
             "repo": "soul-wallet-contract",
-            "stars": 289
+            "stars": 288
           }
         },
         {
@@ -485,7 +485,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T18:50:29Z",
+            "last_commit": "2026-08-17T18:42:19Z",
             "owner": "shakesco",
             "repo": "shakesco-contracts",
             "stars": 1
@@ -522,7 +522,7 @@
             "last_commit": "2025-06-25T18:03:02Z",
             "owner": "eth-infinitism",
             "repo": "bundler",
-            "stars": 395
+            "stars": 396
           }
         },
         {
@@ -533,7 +533,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T16:08:53Z",
+            "last_commit": "2026-08-17T13:55:21Z",
             "owner": "alchemyplatform",
             "repo": "rundler",
             "stars": 390
@@ -575,10 +575,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T17:13:11Z",
+            "last_commit": "2026-08-17T16:43:52Z",
             "owner": "pimlicolabs",
             "repo": "alto",
-            "stars": 227
+            "stars": 228
           }
         },
         {
@@ -589,7 +589,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-06T11:22:07Z",
+            "last_commit": "2026-08-17T20:14:15Z",
             "owner": "candidelabs",
             "repo": "voltaire",
             "stars": 59
@@ -780,7 +780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:16:07.253Z",
+    "last_updated": "2026-08-18T10:04:19.099Z",
     "original_repository": "4337Mafia/awesome-account-abstraction",
     "original_repository_sha": "058a41cfd7bc5cbb804affcb43b7152740666c03",
     "enhanced_repository": "enhansome/enhansome-account-abstraction",
