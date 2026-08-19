@@ -1,786 +1,844 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "argentlabs/argent-x",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "argentlabs/argent-x",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 425851845,
+                "language": "TypeScript",
+                "last_commit": "2025-03-14T13:34:50Z",
+                "owner": "argentlabs",
+                "repo": "argent-x",
+                "stars": 641
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "eth-infinitism/bundler",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 484534921,
+                "language": "TypeScript",
+                "last_commit": "2025-06-25T18:03:02Z",
+                "owner": "eth-infinitism",
+                "repo": "bundler",
+                "stars": 396
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "safe-global/safe-core-sdk",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 337806885,
+                "language": "TypeScript",
+                "last_commit": "2026-08-12T09:15:00Z",
+                "owner": "safe-global",
+                "repo": "safe-core-sdk",
+                "stars": 322
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "alchemyplatform/aa-sdk",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 642965459,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T19:16:53Z",
+                "owner": "alchemyplatform",
+                "repo": "aa-sdk",
+                "stars": 321
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rdubois-crypto/FreshCryptoLib",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 614408924,
+                "language": "Solidity",
+                "last_commit": "2024-08-29T08:47:11Z",
+                "owner": "rdubois-crypto",
+                "repo": "FreshCryptoLib",
+                "stars": 163
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "etherspot/prime-sdk",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 610206099,
+                "language": "TypeScript",
+                "last_commit": "2026-01-22T08:38:42Z",
+                "owner": "etherspot",
+                "repo": "etherspot-prime-sdk",
+                "stars": 129
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bcnmy/biconomy-client-sdk",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 508642433,
+                "language": "TypeScript",
+                "last_commit": "2024-10-11T14:27:41Z",
+                "owner": "bcnmy",
+                "repo": "biconomy-client-sdk",
+                "stars": 85
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AmbireTech/signature-validator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 488170638,
+                "language": "Solidity",
+                "last_commit": "2025-09-12T12:46:29Z",
+                "owner": "AmbireTech",
+                "repo": "signature-validator",
+                "stars": 68
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zerodevapp/sdk",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 656285228,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T07:47:45Z",
+                "owner": "zerodevapp",
+                "repo": "sdk",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Braavos/efficient-secp256r1",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 596600498,
+                "language": "Cairo",
+                "last_commit": "2023-08-28T08:29:11Z",
+                "owner": "myBraavos",
+                "repo": "efficient-secp256r1",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "etherspot/modular-sdk",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 809715972,
+                "language": "TypeScript",
+                "last_commit": "2026-06-25T14:22:49Z",
+                "owner": "etherspot",
+                "repo": "etherspot-modular-sdk",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "0xpass/0xpass",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 584943584,
+                "language": null,
+                "last_commit": "2024-03-04T21:14:02Z",
+                "owner": "0xpass",
+                "repo": "0xpass",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cupcakes-3/sdk",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 536446664,
+                "language": "TypeScript",
+                "last_commit": "2022-09-25T09:16:29Z",
+                "owner": "cupcakes-3",
+                "repo": "sdk",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "openfort-xyz/openfort-node",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 641614498,
+                "language": "TypeScript",
+                "last_commit": "2026-07-30T16:22:40Z",
+                "owner": "openfort-xyz",
+                "repo": "openfort-node",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "porco-rosso-j/zksync-account-trade-limit",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 600743829,
+                "language": "TypeScript",
+                "last_commit": "2023-03-17T07:24:24Z",
+                "owner": "porco-rosso-j",
+                "repo": "zksync-account-trade-limit",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "web3well/easy-web3",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 585322395,
+                "language": "TypeScript",
+                "last_commit": "2023-08-31T20:48:43Z",
+                "owner": "getwax",
+                "repo": "ethdk",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AmbireTech/wallet-login-sdk",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 561451569,
+                "language": "TypeScript",
+                "last_commit": "2025-01-30T09:32:25Z",
+                "owner": "AmbireTech",
+                "repo": "wallet-login-sdk",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TrueWallet/js-sdk",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 687146885,
+                "language": "TypeScript",
+                "last_commit": "2024-06-16T22:39:44Z",
+                "owner": "TrueWallet",
+                "repo": "js-sdk",
+                "stars": 0
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-03-14T13:34:50Z",
-            "owner": "argentlabs",
-            "repo": "argent-x",
-            "stars": 641
-          }
+          "node_type": "group",
+          "title": "SDK & Libraries"
         },
         {
-          "node_type": "item",
-          "title": "eth-infinitism/bundler",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Safe",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 102186072,
+                "language": "TypeScript",
+                "last_commit": "2026-08-14T15:27:24Z",
+                "owner": "safe-fndn",
+                "repo": "safe-smart-account",
+                "stars": 2172
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Infinitism",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 451509672,
+                "language": "TypeScript",
+                "last_commit": "2026-01-25T19:41:37Z",
+                "owner": "eth-infinitism",
+                "repo": "account-abstraction",
+                "stars": 1934
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Soul Wallet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 522832645,
+                "language": "Solidity",
+                "last_commit": "2024-10-22T05:32:18Z",
+                "owner": "Elytro-eth",
+                "repo": "soul-wallet-contract",
+                "stars": 288
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ZeroDev (Kernel)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 616475000,
+                "language": "Solidity",
+                "last_commit": "2026-08-13T14:14:40Z",
+                "owner": "zerodevapp",
+                "repo": "kernel",
+                "stars": 255
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ambire Wallet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 437601831,
+                "language": "JavaScript",
+                "last_commit": "2026-03-16T13:09:21Z",
+                "owner": "AmbireTech",
+                "repo": "wallet",
+                "stars": 232
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BLS Wallet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 418278643,
+                "language": "TypeScript",
+                "last_commit": "2023-08-15T15:06:17Z",
+                "owner": "getwax",
+                "repo": "bls-wallet",
+                "stars": 175
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Alchemy ModularAccount",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 720239677,
+                "language": "Solidity",
+                "last_commit": "2026-08-06T22:43:24Z",
+                "owner": "alchemyplatform",
+                "repo": "modular-account",
+                "stars": 144
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Biconomy",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 500922844,
+                "language": "TypeScript",
+                "last_commit": "2024-11-08T13:36:54Z",
+                "owner": "bcnmy",
+                "repo": "scw-contracts",
+                "stars": 134
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Alchemy LightAccount",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 688142591,
+                "language": "Solidity",
+                "last_commit": "2026-08-11T15:56:06Z",
+                "owner": "alchemyplatform",
+                "repo": "light-account",
+                "stars": 115
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Candide Wallet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 535849486,
+                "language": "Solidity",
+                "last_commit": "2025-02-17T18:12:37Z",
+                "owner": "candidelabs",
+                "repo": "candide-contracts",
+                "stars": 80
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Etherspot",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 598068162,
+                "language": "TypeScript",
+                "last_commit": "2025-04-17T12:13:23Z",
+                "owner": "etherspot",
+                "repo": "etherspot-prime-contracts",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Openfort",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 633913325,
+                "language": "Solidity",
+                "last_commit": "2025-12-31T16:15:11Z",
+                "owner": "openfort-xyz",
+                "repo": "openfort-contracts",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Forum Wallet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 561411360,
+                "language": "Solidity",
+                "last_commit": "2024-08-30T11:30:16Z",
+                "owner": "onit-labs",
+                "repo": "onit-smart-contract-account",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Patch Wallet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 586112201,
+                "language": "Solidity",
+                "last_commit": "2023-10-05T21:34:44Z",
+                "owner": "PaymagicXYZ",
+                "repo": "patch-base-account-contracts",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TrueWallet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 610558144,
+                "language": "Solidity",
+                "last_commit": "2024-08-11T05:06:01Z",
+                "owner": "TrueWallet",
+                "repo": "contracts",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shakespay",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 777458035,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T18:42:19Z",
+                "owner": "shakesco",
+                "repo": "shakesco-contracts",
+                "stars": 1
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-06-25T18:03:02Z",
-            "owner": "eth-infinitism",
-            "repo": "bundler",
-            "stars": 396
-          }
+          "node_type": "group",
+          "title": "Smart Contracts (EVM)"
         },
         {
-          "node_type": "item",
-          "title": "safe-global/safe-core-sdk",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Skandha - Typescript Implementation",
+              "description": "by Etherspot",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 586821913,
+                "language": "TypeScript",
+                "last_commit": "2026-07-11T10:16:49Z",
+                "owner": "etherspot",
+                "repo": "skandha",
+                "stars": 614
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TypeScript Implementation",
+              "description": "by Infinitism",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 484534921,
+                "language": "TypeScript",
+                "last_commit": "2025-06-25T18:03:02Z",
+                "owner": "eth-infinitism",
+                "repo": "bundler",
+                "stars": 396
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rundler - Rust Implementation",
+              "description": "by Alchemy",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 597939974,
+                "language": "Rust",
+                "last_commit": "2026-08-18T20:02:47Z",
+                "owner": "alchemyplatform",
+                "repo": "rundler",
+                "stars": 390
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Silius - Rust Implementation",
+              "description": "blog",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 555758437,
+                "language": "Rust",
+                "last_commit": "2025-08-18T21:35:10Z",
+                "owner": "silius-rs",
+                "repo": "silius",
+                "stars": 273
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Stackup - Golang Implementation",
+              "description": "by Stackup",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 547597394,
+                "language": "Go",
+                "last_commit": "2024-08-12T17:31:27Z",
+                "owner": "stackup-wallet",
+                "repo": "stackup-bundler",
+                "stars": 244
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Alto - Typescript Implementation",
+              "description": "by Pimlico",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 625811453,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T09:36:02Z",
+                "owner": "pimlicolabs",
+                "repo": "alto",
+                "stars": 228
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Voltaire - Python Implementation",
+              "description": "by Candide",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 601415811,
+                "language": "Python",
+                "last_commit": "2026-08-17T20:14:15Z",
+                "owner": "candidelabs",
+                "repo": "voltaire",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OKBund - Java Implementation",
+              "description": "by OKX",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 724077044,
+                "language": "Java",
+                "last_commit": "2024-06-28T10:45:17Z",
+                "owner": "okx",
+                "repo": "OKBund",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Transeptor - Typescript Implementation",
+              "description": "by Transeptor Labs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 625661547,
+                "language": "TypeScript",
+                "last_commit": "2026-06-08T23:04:31Z",
+                "owner": "transeptorlabs",
+                "repo": "transeptor-bundler",
+                "stars": 27
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-12T09:15:00Z",
-            "owner": "safe-global",
-            "repo": "safe-core-sdk",
-            "stars": 322
-          }
+          "node_type": "group",
+          "title": "Bundlers"
         },
         {
-          "node_type": "item",
-          "title": "alchemyplatform/aa-sdk",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Paymaster contracts",
+              "description": "by Pimlico",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 619955186,
+                "language": "Solidity",
+                "last_commit": "2025-11-06T13:29:35Z",
+                "owner": "pimlicolabs",
+                "repo": "erc20-paymaster",
+                "stars": 113
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Arka Paymaster (open source paymaster service)",
+              "description": "by Etherspot",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 663163324,
+                "language": "TypeScript",
+                "last_commit": "2026-08-16T15:41:25Z",
+                "owner": "etherspot",
+                "repo": "arka",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Paymaster Playground",
+              "description": "by Biconomy",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 625294142,
+                "language": "TypeScript",
+                "last_commit": "2024-10-10T18:33:30Z",
+                "owner": "bcnmy",
+                "repo": "biconomy-paymasters",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Python Implementation",
+              "description": "by Candide",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 556298709,
+                "language": "Python",
+                "last_commit": "2023-05-10T13:18:15Z",
+                "owner": "candidelabs",
+                "repo": "Candide-Paymaster-RPC",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Governance Paymasters (open source paymasters that operate fully on-chain)",
+              "description": "Tollbeam - Multi-chain ERC-4337 paymaster aggregator with automatic routing, fallback, and unified billing across Optimism, Base, and Arbitrum.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 754812820,
+                "language": "Solidity",
+                "last_commit": "2024-04-24T20:45:21Z",
+                "owner": "meliopolis",
+                "repo": "governance-paymaster",
+                "stars": 0
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T19:16:53Z",
-            "owner": "alchemyplatform",
-            "repo": "aa-sdk",
-            "stars": 321
-          }
+          "node_type": "group",
+          "title": "Paymasters"
         },
         {
-          "node_type": "item",
-          "title": "rdubois-crypto/FreshCryptoLib",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Argent account contracts on Starknet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 412480844,
+                "language": "Cairo",
+                "last_commit": "2025-11-07T09:41:06Z",
+                "owner": "argentlabs",
+                "repo": "argent-contracts-starknet",
+                "stars": 180
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Braavos account contracts including multisig and Hardware Signer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 597522628,
+                "language": "Python",
+                "last_commit": "2025-05-08T19:08:18Z",
+                "owner": "myBraavos",
+                "repo": "braavos-account-cairo",
+                "stars": 117
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Multisig wallet on StarkNet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 467035946,
+                "language": "Cairo",
+                "last_commit": "2026-04-29T18:53:56Z",
+                "owner": "equilibriumco",
+                "repo": "starknet-multisig",
+                "stars": 91
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Another Multisig wallet on StarkNet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 461579030,
+                "language": "Cairo",
+                "last_commit": "2022-05-28T15:05:22Z",
+                "owner": "sambarnes",
+                "repo": "cairo-multisig",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Guildly: An implementation for having guilds for on-chain games on Starknet.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 489433297,
+                "language": "Rust",
+                "last_commit": "2024-02-09T13:40:27Z",
+                "owner": "Guildly",
+                "repo": "contracts",
+                "stars": 7
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2024-08-29T08:47:11Z",
-            "owner": "rdubois-crypto",
-            "repo": "FreshCryptoLib",
-            "stars": 163
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "etherspot/prime-sdk",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-01-22T08:38:42Z",
-            "owner": "etherspot",
-            "repo": "etherspot-prime-sdk",
-            "stars": 129
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bcnmy/biconomy-client-sdk",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-10-11T14:27:41Z",
-            "owner": "bcnmy",
-            "repo": "biconomy-client-sdk",
-            "stars": 85
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AmbireTech/signature-validator",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2025-09-12T12:46:29Z",
-            "owner": "AmbireTech",
-            "repo": "signature-validator",
-            "stars": 68
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zerodevapp/sdk",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-11T07:47:45Z",
-            "owner": "zerodevapp",
-            "repo": "sdk",
-            "stars": 56
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Braavos/efficient-secp256r1",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Cairo",
-            "last_commit": "2023-08-28T08:29:11Z",
-            "owner": "myBraavos",
-            "repo": "efficient-secp256r1",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "etherspot/modular-sdk",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-25T14:22:49Z",
-            "owner": "etherspot",
-            "repo": "etherspot-modular-sdk",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "0xpass/0xpass",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-03-04T21:14:02Z",
-            "owner": "0xpass",
-            "repo": "0xpass",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cupcakes-3/sdk",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-09-25T09:16:29Z",
-            "owner": "cupcakes-3",
-            "repo": "sdk",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "openfort-xyz/openfort-node",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-30T16:22:40Z",
-            "owner": "openfort-xyz",
-            "repo": "openfort-node",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "porco-rosso-j/zksync-account-trade-limit",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-03-17T07:24:24Z",
-            "owner": "porco-rosso-j",
-            "repo": "zksync-account-trade-limit",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "web3well/easy-web3",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-08-31T20:48:43Z",
-            "owner": "getwax",
-            "repo": "ethdk",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AmbireTech/wallet-login-sdk",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-01-30T09:32:25Z",
-            "owner": "AmbireTech",
-            "repo": "wallet-login-sdk",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TrueWallet/js-sdk",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-06-16T22:39:44Z",
-            "owner": "TrueWallet",
-            "repo": "js-sdk",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "shakesco/userop.js",
-          "description": null,
-          "children": []
+          "node_type": "group",
+          "title": "Starknet"
         }
       ],
-      "title": "SDK & Libraries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Safe",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-14T15:27:24Z",
-            "owner": "safe-fndn",
-            "repo": "safe-smart-account",
-            "stars": 2170
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Infinitism",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-01-25T19:41:37Z",
-            "owner": "eth-infinitism",
-            "repo": "account-abstraction",
-            "stars": 1931
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Soul Wallet",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Solidity",
-            "last_commit": "2024-10-22T05:32:18Z",
-            "owner": "Elytro-eth",
-            "repo": "soul-wallet-contract",
-            "stars": 288
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ZeroDev (Kernel)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2026-08-13T14:14:40Z",
-            "owner": "zerodevapp",
-            "repo": "kernel",
-            "stars": 255
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ambire Wallet",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-16T13:09:21Z",
-            "owner": "AmbireTech",
-            "repo": "wallet",
-            "stars": 232
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BLS Wallet",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2023-08-15T15:06:17Z",
-            "owner": "getwax",
-            "repo": "bls-wallet",
-            "stars": 175
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Alchemy ModularAccount",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2026-08-06T22:43:24Z",
-            "owner": "alchemyplatform",
-            "repo": "modular-account",
-            "stars": 144
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Biconomy",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-11-08T13:36:54Z",
-            "owner": "bcnmy",
-            "repo": "scw-contracts",
-            "stars": 134
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Alchemy LightAccount",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2026-08-11T15:56:06Z",
-            "owner": "alchemyplatform",
-            "repo": "light-account",
-            "stars": 115
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Candide Wallet",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2025-02-17T18:12:37Z",
-            "owner": "candidelabs",
-            "repo": "candide-contracts",
-            "stars": 80
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Etherspot",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-04-17T12:13:23Z",
-            "owner": "etherspot",
-            "repo": "etherspot-prime-contracts",
-            "stars": 55
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Openfort",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2025-12-31T16:15:11Z",
-            "owner": "openfort-xyz",
-            "repo": "openfort-contracts",
-            "stars": 36
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Forum Wallet",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2024-08-30T11:30:16Z",
-            "owner": "onit-labs",
-            "repo": "onit-smart-contract-account",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Patch Wallet",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2023-10-05T21:34:44Z",
-            "owner": "PaymagicXYZ",
-            "repo": "patch-base-account-contracts",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TrueWallet",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2024-08-11T05:06:01Z",
-            "owner": "TrueWallet",
-            "repo": "contracts",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shakespay",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T18:42:19Z",
-            "owner": "shakesco",
-            "repo": "shakesco-contracts",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Smart Contracts (EVM)"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Skandha - Typescript Implementation",
-          "description": "by Etherspot",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-11T10:16:49Z",
-            "owner": "etherspot",
-            "repo": "skandha",
-            "stars": 614
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TypeScript Implementation",
-          "description": "by Infinitism",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-06-25T18:03:02Z",
-            "owner": "eth-infinitism",
-            "repo": "bundler",
-            "stars": 396
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rundler - Rust Implementation",
-          "description": "by Alchemy",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-17T13:55:21Z",
-            "owner": "alchemyplatform",
-            "repo": "rundler",
-            "stars": 390
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Silius - Rust Implementation",
-          "description": "blog",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-08-18T21:35:10Z",
-            "owner": "silius-rs",
-            "repo": "silius",
-            "stars": 273
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Stackup - Golang Implementation",
-          "description": "by Stackup",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2024-08-12T17:31:27Z",
-            "owner": "stackup-wallet",
-            "repo": "stackup-bundler",
-            "stars": 244
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Alto - Typescript Implementation",
-          "description": "by Pimlico",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T16:43:52Z",
-            "owner": "pimlicolabs",
-            "repo": "alto",
-            "stars": 228
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Voltaire - Python Implementation",
-          "description": "by Candide",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T20:14:15Z",
-            "owner": "candidelabs",
-            "repo": "voltaire",
-            "stars": 59
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OKBund - Java Implementation",
-          "description": "by OKX",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2024-06-28T10:45:17Z",
-            "owner": "okx",
-            "repo": "OKBund",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Transeptor - Typescript Implementation",
-          "description": "by Transeptor Labs",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-08T23:04:31Z",
-            "owner": "transeptorlabs",
-            "repo": "transeptor-bundler",
-            "stars": 27
-          }
-        }
-      ],
-      "title": "Bundlers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Paymaster contracts",
-          "description": "by Pimlico",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Solidity",
-            "last_commit": "2025-11-06T13:29:35Z",
-            "owner": "pimlicolabs",
-            "repo": "erc20-paymaster",
-            "stars": 113
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Arka Paymaster (open source paymaster service)",
-          "description": "by Etherspot",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-16T15:41:25Z",
-            "owner": "etherspot",
-            "repo": "arka",
-            "stars": 67
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Paymaster Playground",
-          "description": "by Biconomy",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-10-10T18:33:30Z",
-            "owner": "bcnmy",
-            "repo": "biconomy-paymasters",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Python Implementation",
-          "description": "by Candide",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-05-10T13:18:15Z",
-            "owner": "candidelabs",
-            "repo": "Candide-Paymaster-RPC",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Governance Paymasters (open source paymasters that operate fully on-chain)",
-          "description": "Tollbeam - Multi-chain ERC-4337 paymaster aggregator with automatic routing, fallback, and unified billing across Optimism, Base, and Arbitrum.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2024-04-24T20:45:21Z",
-            "owner": "meliopolis",
-            "repo": "governance-paymaster",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Paymasters"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Argent account contracts on Starknet",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Cairo",
-            "last_commit": "2025-11-07T09:41:06Z",
-            "owner": "argentlabs",
-            "repo": "argent-contracts-starknet",
-            "stars": 180
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Braavos account contracts including multisig and Hardware Signer",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-05-08T19:08:18Z",
-            "owner": "myBraavos",
-            "repo": "braavos-account-cairo",
-            "stars": 117
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Multisig wallet on StarkNet",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Cairo",
-            "last_commit": "2026-04-29T18:53:56Z",
-            "owner": "equilibriumco",
-            "repo": "starknet-multisig",
-            "stars": 91
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Another Multisig wallet on StarkNet",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Cairo",
-            "last_commit": "2022-05-28T15:05:22Z",
-            "owner": "sambarnes",
-            "repo": "cairo-multisig",
-            "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Guildly: An implementation for having guilds for on-chain games on Starknet.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-02-09T13:40:27Z",
-            "owner": "Guildly",
-            "repo": "contracts",
-            "stars": 7
-          }
-        }
-      ],
-      "title": "Starknet"
+      "title": "Code"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T10:04:19.099Z",
+    "last_updated": "2026-08-19T10:05:00.470Z",
     "original_repository": "4337Mafia/awesome-account-abstraction",
     "original_repository_sha": "058a41cfd7bc5cbb804affcb43b7152740666c03",
     "enhanced_repository": "enhansome/enhansome-account-abstraction",
