@@ -613,7 +613,7 @@
                 "archived": false,
                 "id": 625811453,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T09:36:02Z",
+                "last_commit": "2026-08-19T11:19:04Z",
                 "owner": "pimlicolabs",
                 "repo": "alto",
                 "stars": 228
@@ -838,8 +838,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:05:00.470Z",
+    "last_updated": "2026-08-19T12:14:34.350Z",
     "original_repository": "4337Mafia/awesome-account-abstraction",
+    "original_repository_id": 576811495,
     "original_repository_sha": "058a41cfd7bc5cbb804affcb43b7152740666c03",
     "enhanced_repository": "enhansome/enhansome-account-abstraction",
     "enhanced_repository_description": null,
