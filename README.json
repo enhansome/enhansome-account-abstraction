@@ -309,7 +309,7 @@
                 "last_commit": "2026-01-25T19:41:37Z",
                 "owner": "eth-infinitism",
                 "repo": "account-abstraction",
-                "stars": 1934
+                "stars": 1935
               }
             },
             {
@@ -354,7 +354,7 @@
                 "last_commit": "2026-03-16T13:09:21Z",
                 "owner": "AmbireTech",
                 "repo": "wallet",
-                "stars": 232
+                "stars": 233
               }
             },
             {
@@ -541,7 +541,7 @@
                 "last_commit": "2026-07-11T10:16:49Z",
                 "owner": "etherspot",
                 "repo": "skandha",
-                "stars": 614
+                "stars": 613
               }
             },
             {
@@ -571,7 +571,7 @@
                 "last_commit": "2026-08-18T20:02:47Z",
                 "owner": "alchemyplatform",
                 "repo": "rundler",
-                "stars": 391
+                "stars": 390
               }
             },
             {
@@ -613,7 +613,7 @@
                 "archived": false,
                 "id": 625811453,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T17:11:45Z",
+                "last_commit": "2026-08-21T16:51:13Z",
                 "owner": "pimlicolabs",
                 "repo": "alto",
                 "stars": 229
@@ -838,7 +838,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T10:13:15.830Z",
+    "last_updated": "2026-08-22T10:00:59.672Z",
     "original_repository": "4337Mafia/awesome-account-abstraction",
     "original_repository_id": 576811495,
     "original_repository_sha": "058a41cfd7bc5cbb804affcb43b7152740666c03",
