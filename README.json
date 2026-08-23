@@ -294,7 +294,7 @@
                 "last_commit": "2026-08-14T15:27:24Z",
                 "owner": "safe-fndn",
                 "repo": "safe-smart-account",
-                "stars": 2173
+                "stars": 2175
               }
             },
             {
@@ -309,7 +309,7 @@
                 "last_commit": "2026-01-25T19:41:37Z",
                 "owner": "eth-infinitism",
                 "repo": "account-abstraction",
-                "stars": 1935
+                "stars": 1936
               }
             },
             {
@@ -628,7 +628,7 @@
                 "archived": false,
                 "id": 601415811,
                 "language": "Python",
-                "last_commit": "2026-08-20T15:02:24Z",
+                "last_commit": "2026-08-22T18:03:34Z",
                 "owner": "candidelabs",
                 "repo": "voltaire",
                 "stars": 59
@@ -838,7 +838,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T10:00:59.672Z",
+    "last_updated": "2026-08-23T10:01:40.236Z",
     "original_repository": "4337Mafia/awesome-account-abstraction",
     "original_repository_id": 576811495,
     "original_repository_sha": "058a41cfd7bc5cbb804affcb43b7152740666c03",
