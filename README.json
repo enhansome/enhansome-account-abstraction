@@ -309,7 +309,7 @@
                 "last_commit": "2026-01-25T19:41:37Z",
                 "owner": "eth-infinitism",
                 "repo": "account-abstraction",
-                "stars": 1937
+                "stars": 1938
               }
             },
             {
@@ -755,6 +755,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Bundler Compatibility Test Suite",
+              "description": "by Infinitism",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 565504922,
+                "language": "Python",
+                "last_commit": "2025-05-15T10:09:58Z",
+                "owner": "eth-infinitism",
+                "repo": "bundler-spec-tests",
+                "stars": 82
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Testing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Argent account contracts on Starknet",
               "description": null,
               "children": [],
@@ -832,13 +854,95 @@
           "description": null,
           "node_type": "group",
           "title": "Starknet"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Account Abstraction RPC Providers",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 383086796,
+                "language": null,
+                "last_commit": "2025-08-28T14:42:04Z",
+                "owner": "arddluma",
+                "repo": "awesome-list-rpc-nodes-providers",
+                "stars": 914
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "RPC Providers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "UoIndexer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 633783997,
+                "language": "Rust",
+                "last_commit": "2023-05-03T01:41:56Z",
+                "owner": "zsluedem",
+                "repo": "UoIndexer",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Indexer"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Example custom compressor for UserOperations",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Example compression dictionary",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 42808596,
+                    "language": "Python",
+                    "last_commit": "2025-10-18T04:01:33Z",
+                    "owner": "ethereum",
+                    "repo": "research",
+                    "stars": 1930
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 42808596,
+                "language": "Python",
+                "last_commit": "2025-10-18T04:01:33Z",
+                "owner": "ethereum",
+                "repo": "research",
+                "stars": 1930
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Misc"
         }
       ],
       "title": "Code"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:22:48.978Z",
+    "last_updated": "2026-08-24T14:15:47.718Z",
     "original_repository": "4337Mafia/awesome-account-abstraction",
     "original_repository_id": 576811495,
     "original_repository_sha": "058a41cfd7bc5cbb804affcb43b7152740666c03",

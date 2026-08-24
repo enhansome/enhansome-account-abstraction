@@ -152,7 +152,7 @@
 ### Smart Contracts (EVM)
 
 * [Safe](https://github.com/safe-global/safe-contracts/) ⭐ 2,174 | 🐛 34 | 🌐 TypeScript | 📅 2026-08-14
-* [Infinitism](https://github.com/eth-infinitism/account-abstraction) ⭐ 1,937 | 🐛 8 | 🌐 TypeScript | 📅 2026-01-25
+* [Infinitism](https://github.com/eth-infinitism/account-abstraction) ⭐ 1,938 | 🐛 8 | 🌐 TypeScript | 📅 2026-01-25
 * [Soul Wallet](https://github.com/proofofsoulprotocol/soul-wallet-contract) ⚠️ Archived
 * [ZeroDev (Kernel)](https://github.com/zerodevapp/kernel) ⭐ 255 | 🐛 3 | 🌐 Solidity | 📅 2026-08-13
 * [Ambire Wallet](https://github.com/AmbireTech/wallet/tree/development/contracts) ⭐ 233 | 🐛 4 | 🌐 JavaScript | 📅 2026-03-16
@@ -224,9 +224,9 @@
 
 ### Misc
 
+* [Example custom compressor for UserOperations](https://github.com/ethereum/research/blob/master/rollup_compression/4844_compress_complex.py) ⭐ 1,930 | 🐛 62 | 🌐 Python | 📅 2025-10-18
+  * [Example compression dictionary](https://github.com/ethereum/research/blob/master/rollup_compression/dicts.py) ⭐ 1,930 | 🐛 62 | 🌐 Python | 📅 2025-10-18
 * [WAX Fee Calculator](https://andrewmorris.io/wax-fee-calculator/)
-* [Example custom compressor for UserOperations](https://github.com/ethereum/research/blob/master/rollup_compression/4844_compress_complex.py) ⭐ 1,929 | 🐛 62 | 🌐 Python | 📅 2025-10-18
-  * [Example compression dictionary](https://github.com/ethereum/research/blob/master/rollup_compression/dicts.py) ⭐ 1,929 | 🐛 62 | 🌐 Python | 📅 2025-10-18
 
 # Projects
 
