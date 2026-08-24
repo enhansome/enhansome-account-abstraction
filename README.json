@@ -294,7 +294,7 @@
                 "last_commit": "2026-08-14T15:27:24Z",
                 "owner": "safe-fndn",
                 "repo": "safe-smart-account",
-                "stars": 2175
+                "stars": 2174
               }
             },
             {
@@ -309,7 +309,7 @@
                 "last_commit": "2026-01-25T19:41:37Z",
                 "owner": "eth-infinitism",
                 "repo": "account-abstraction",
-                "stars": 1936
+                "stars": 1937
               }
             },
             {
@@ -399,7 +399,7 @@
                 "last_commit": "2024-11-08T13:36:54Z",
                 "owner": "bcnmy",
                 "repo": "scw-contracts",
-                "stars": 134
+                "stars": 135
               }
             },
             {
@@ -571,7 +571,7 @@
                 "last_commit": "2026-08-18T20:02:47Z",
                 "owner": "alchemyplatform",
                 "repo": "rundler",
-                "stars": 390
+                "stars": 391
               }
             },
             {
@@ -616,7 +616,7 @@
                 "last_commit": "2026-08-21T16:51:13Z",
                 "owner": "pimlicolabs",
                 "repo": "alto",
-                "stars": 229
+                "stars": 230
               }
             },
             {
@@ -838,7 +838,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T10:01:40.236Z",
+    "last_updated": "2026-08-24T10:22:48.978Z",
     "original_repository": "4337Mafia/awesome-account-abstraction",
     "original_repository_id": 576811495,
     "original_repository_sha": "058a41cfd7bc5cbb804affcb43b7152740666c03",
