@@ -125,7 +125,7 @@
 
 * [argentlabs/argent-x](https://github.com/argentlabs/argent-x) ⭐ 641 | 🐛 95 | 🌐 TypeScript | 📅 2025-03-14
 * [eth-infinitism/bundler](https://github.com/eth-infinitism/bundler) ⭐ 396 | 🐛 15 | 🌐 TypeScript | 📅 2025-06-25
-* [safe-global/safe-core-sdk](https://github.com/safe-global/safe-core-sdk) ⭐ 323 | 🐛 64 | 🌐 TypeScript | 📅 2026-08-12
+* [safe-global/safe-core-sdk](https://github.com/safe-global/safe-core-sdk) ⭐ 323 | 🐛 63 | 🌐 TypeScript | 📅 2026-08-12
 * [alchemyplatform/aa-sdk](https://github.com/alchemyplatform/aa-sdk) ⭐ 321 | 🐛 156 | 🌐 TypeScript | 📅 2026-08-17
 * [rdubois-crypto/FreshCryptoLib](https://github.com/rdubois-crypto/FreshCryptoLib) ⭐ 163 | 🐛 1 | 🌐 Solidity | 📅 2024-08-29
 * [etherspot/prime-sdk](https://github.com/etherspot/etherspot-prime-sdk) ⭐ 129 | 🐛 7 | 🌐 TypeScript | 📅 2026-01-22
