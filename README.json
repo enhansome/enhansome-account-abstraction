@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 337806885,
                 "language": "TypeScript",
-                "last_commit": "2026-08-12T09:15:00Z",
+                "last_commit": "2026-08-26T07:19:04Z",
                 "owner": "safe-global",
                 "repo": "safe-core-sdk",
                 "stars": 323
@@ -616,7 +616,7 @@
                 "last_commit": "2026-08-21T16:51:13Z",
                 "owner": "pimlicolabs",
                 "repo": "alto",
-                "stars": 230
+                "stars": 231
               }
             },
             {
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T10:14:10.549Z",
+    "last_updated": "2026-08-26T10:18:54.897Z",
     "original_repository": "4337Mafia/awesome-account-abstraction",
     "original_repository_id": 576811495,
     "original_repository_sha": "058a41cfd7bc5cbb804affcb43b7152740666c03",
