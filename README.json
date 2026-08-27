@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 337806885,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T07:19:04Z",
+                "last_commit": "2026-08-27T15:20:26Z",
                 "owner": "safe-global",
                 "repo": "safe-core-sdk",
                 "stars": 323
@@ -309,7 +309,7 @@
                 "last_commit": "2026-01-25T19:41:37Z",
                 "owner": "eth-infinitism",
                 "repo": "account-abstraction",
-                "stars": 1938
+                "stars": 1937
               }
             },
             {
@@ -541,7 +541,7 @@
                 "last_commit": "2026-07-11T10:16:49Z",
                 "owner": "etherspot",
                 "repo": "skandha",
-                "stars": 613
+                "stars": 614
               }
             },
             {
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:17:47.056Z",
+    "last_updated": "2026-08-27T20:00:08.982Z",
     "original_repository_info": {
       "archived": false,
       "id": 576811495,
@@ -950,7 +950,7 @@
       "last_commit": "2026-06-09T22:38:44Z",
       "owner": "4337Mafia",
       "repo": "awesome-account-abstraction",
-      "stars": 1015
+      "stars": 1016
     },
     "original_repository_sha": "058a41cfd7bc5cbb804affcb43b7152740666c03",
     "enhanced_repository": "enhansome/enhansome-account-abstraction",
