@@ -294,7 +294,7 @@
                 "last_commit": "2026-08-14T15:27:24Z",
                 "owner": "safe-fndn",
                 "repo": "safe-smart-account",
-                "stars": 2174
+                "stars": 2175
               }
             },
             {
@@ -942,9 +942,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:18:54.897Z",
-    "original_repository": "4337Mafia/awesome-account-abstraction",
-    "original_repository_id": 576811495,
+    "last_updated": "2026-08-27T11:17:47.056Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 576811495,
+      "language": null,
+      "last_commit": "2026-06-09T22:38:44Z",
+      "owner": "4337Mafia",
+      "repo": "awesome-account-abstraction",
+      "stars": 1015
+    },
     "original_repository_sha": "058a41cfd7bc5cbb804affcb43b7152740666c03",
     "enhanced_repository": "enhansome/enhansome-account-abstraction",
     "enhanced_repository_description": null,
