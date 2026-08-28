@@ -18,7 +18,8 @@
                 "owner": "argentlabs",
                 "repo": "argent-x",
                 "stars": 641
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "eth-infinitism",
                 "repo": "bundler",
                 "stars": 396
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -44,11 +46,12 @@
                 "archived": false,
                 "id": 337806885,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T15:20:26Z",
+                "last_commit": "2026-08-28T09:26:27Z",
                 "owner": "safe-global",
                 "repo": "safe-core-sdk",
                 "stars": 323
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "alchemyplatform",
                 "repo": "aa-sdk",
                 "stars": 321
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "rdubois-crypto",
                 "repo": "FreshCryptoLib",
                 "stars": 163
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "etherspot",
                 "repo": "etherspot-prime-sdk",
                 "stars": 129
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "bcnmy",
                 "repo": "biconomy-client-sdk",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "AmbireTech",
                 "repo": "signature-validator",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "zerodevapp",
                 "repo": "sdk",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "myBraavos",
                 "repo": "efficient-secp256r1",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "etherspot",
                 "repo": "etherspot-modular-sdk",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -183,7 +194,8 @@
                 "owner": "0xpass",
                 "repo": "0xpass",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -198,7 +210,8 @@
                 "owner": "cupcakes-3",
                 "repo": "sdk",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -213,7 +226,8 @@
                 "owner": "openfort-xyz",
                 "repo": "openfort-node",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -228,7 +242,8 @@
                 "owner": "porco-rosso-j",
                 "repo": "zksync-account-trade-limit",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -243,7 +258,8 @@
                 "owner": "getwax",
                 "repo": "ethdk",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -258,7 +274,8 @@
                 "owner": "AmbireTech",
                 "repo": "wallet-login-sdk",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -273,7 +290,8 @@
                 "owner": "TrueWallet",
                 "repo": "js-sdk",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             }
           ],
           "description": null,
@@ -295,7 +313,8 @@
                 "owner": "safe-fndn",
                 "repo": "safe-smart-account",
                 "stars": 2175
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -309,8 +328,9 @@
                 "last_commit": "2026-01-25T19:41:37Z",
                 "owner": "eth-infinitism",
                 "repo": "account-abstraction",
-                "stars": 1937
-              }
+                "stars": 1938
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -325,7 +345,8 @@
                 "owner": "Elytro-eth",
                 "repo": "soul-wallet-contract",
                 "stars": 288
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -340,7 +361,8 @@
                 "owner": "zerodevapp",
                 "repo": "kernel",
                 "stars": 255
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -354,8 +376,9 @@
                 "last_commit": "2026-03-16T13:09:21Z",
                 "owner": "AmbireTech",
                 "repo": "wallet",
-                "stars": 233
-              }
+                "stars": 234
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -370,7 +393,8 @@
                 "owner": "getwax",
                 "repo": "bls-wallet",
                 "stars": 175
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -385,7 +409,8 @@
                 "owner": "alchemyplatform",
                 "repo": "modular-account",
                 "stars": 144
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -400,7 +425,8 @@
                 "owner": "bcnmy",
                 "repo": "scw-contracts",
                 "stars": 135
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -415,7 +441,8 @@
                 "owner": "alchemyplatform",
                 "repo": "light-account",
                 "stars": 115
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -430,7 +457,8 @@
                 "owner": "candidelabs",
                 "repo": "candide-contracts",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -445,7 +473,8 @@
                 "owner": "etherspot",
                 "repo": "etherspot-prime-contracts",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -460,7 +489,8 @@
                 "owner": "openfort-xyz",
                 "repo": "openfort-contracts",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -475,7 +505,8 @@
                 "owner": "onit-labs",
                 "repo": "onit-smart-contract-account",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -490,7 +521,8 @@
                 "owner": "PaymagicXYZ",
                 "repo": "patch-base-account-contracts",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -505,7 +537,8 @@
                 "owner": "TrueWallet",
                 "repo": "contracts",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -520,7 +553,8 @@
                 "owner": "shakesco",
                 "repo": "shakesco-contracts",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             }
           ],
           "description": null,
@@ -542,7 +576,8 @@
                 "owner": "etherspot",
                 "repo": "skandha",
                 "stars": 614
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -557,7 +592,8 @@
                 "owner": "eth-infinitism",
                 "repo": "bundler",
                 "stars": 396
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -572,7 +608,8 @@
                 "owner": "alchemyplatform",
                 "repo": "rundler",
                 "stars": 391
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -587,7 +624,8 @@
                 "owner": "silius-rs",
                 "repo": "silius",
                 "stars": 273
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -602,7 +640,8 @@
                 "owner": "stackup-wallet",
                 "repo": "stackup-bundler",
                 "stars": 244
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -617,7 +656,8 @@
                 "owner": "pimlicolabs",
                 "repo": "alto",
                 "stars": 231
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -632,7 +672,8 @@
                 "owner": "candidelabs",
                 "repo": "voltaire",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -647,7 +688,8 @@
                 "owner": "okx",
                 "repo": "OKBund",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -662,7 +704,8 @@
                 "owner": "transeptorlabs",
                 "repo": "transeptor-bundler",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             }
           ],
           "description": null,
@@ -684,7 +727,8 @@
                 "owner": "pimlicolabs",
                 "repo": "erc20-paymaster",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -699,7 +743,8 @@
                 "owner": "etherspot",
                 "repo": "arka",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -714,7 +759,8 @@
                 "owner": "bcnmy",
                 "repo": "biconomy-paymasters",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -729,7 +775,8 @@
                 "owner": "candidelabs",
                 "repo": "Candide-Paymaster-RPC",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -744,7 +791,8 @@
                 "owner": "meliopolis",
                 "repo": "governance-paymaster",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             }
           ],
           "description": null,
@@ -766,7 +814,8 @@
                 "owner": "eth-infinitism",
                 "repo": "bundler-spec-tests",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             }
           ],
           "description": null,
@@ -788,7 +837,8 @@
                 "owner": "argentlabs",
                 "repo": "argent-contracts-starknet",
                 "stars": 180
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -803,7 +853,8 @@
                 "owner": "myBraavos",
                 "repo": "braavos-account-cairo",
                 "stars": 117
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -818,7 +869,8 @@
                 "owner": "equilibriumco",
                 "repo": "starknet-multisig",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -833,7 +885,8 @@
                 "owner": "sambarnes",
                 "repo": "cairo-multisig",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             },
             {
               "node_type": "item",
@@ -848,7 +901,8 @@
                 "owner": "Guildly",
                 "repo": "contracts",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             }
           ],
           "description": null,
@@ -870,7 +924,8 @@
                 "owner": "arddluma",
                 "repo": "awesome-list-rpc-nodes-providers",
                 "stars": 914
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             }
           ],
           "description": null,
@@ -892,7 +947,8 @@
                 "owner": "zsluedem",
                 "repo": "UoIndexer",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             }
           ],
           "description": null,
@@ -919,7 +975,8 @@
                     "owner": "ethereum",
                     "repo": "research",
                     "stars": 1930
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:59:54.575Z"
                 }
               ],
               "repo_info": {
@@ -930,7 +987,8 @@
                 "owner": "ethereum",
                 "repo": "research",
                 "stars": 1930
-              }
+              },
+              "first_seen": "2026-08-28T20:59:54.575Z"
             }
           ],
           "description": null,
@@ -942,7 +1000,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:00:08.982Z",
+    "last_updated": "2026-08-28T20:59:54.575Z",
     "original_repository_info": {
       "archived": false,
       "id": 576811495,
