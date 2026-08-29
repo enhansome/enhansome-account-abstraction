@@ -151,7 +151,7 @@
 
 ### Smart Contracts (EVM)
 
-* [Safe](https://github.com/safe-global/safe-contracts/) ⭐ 2,175 | 🐛 34 | 🌐 TypeScript | 📅 2026-08-14
+* [Safe](https://github.com/safe-global/safe-contracts/) ⭐ 2,176 | 🐛 34 | 🌐 TypeScript | 📅 2026-08-14
 * [Infinitism](https://github.com/eth-infinitism/account-abstraction) ⭐ 1,938 | 🐛 8 | 🌐 TypeScript | 📅 2026-01-25
 * [Soul Wallet](https://github.com/proofofsoulprotocol/soul-wallet-contract) ⚠️ Archived
 * [ZeroDev (Kernel)](https://github.com/zerodevapp/kernel) ⭐ 255 | 🐛 2 | 🌐 Solidity | 📅 2026-08-13
@@ -212,7 +212,7 @@
 
 ### RPC Providers
 
-* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 914 | 🐛 1,267 | 📅 2025-08-28
+* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 914 | 🐛 1,268 | 📅 2025-08-28
 
 ### L2 Integration API
 

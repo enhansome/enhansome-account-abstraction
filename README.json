@@ -453,7 +453,7 @@
                 "open_issues": 34,
                 "owner": "safe-fndn",
                 "repo": "safe-smart-account",
-                "stars": 2175,
+                "stars": 2176,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -950,7 +950,7 @@
                 "open_issues": 53,
                 "owner": "stackup-wallet",
                 "repo": "stackup-bundler",
-                "stars": 244,
+                "stars": 243,
                 "topics": [
                   "account-abstraction",
                   "bundler",
@@ -1352,7 +1352,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-08-28T14:42:04Z",
-                "open_issues": 1267,
+                "open_issues": 1268,
                 "owner": "arddluma",
                 "repo": "awesome-list-rpc-nodes-providers",
                 "stars": 914,
@@ -1474,7 +1474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:33:19.237Z",
+    "last_updated": "2026-08-29T14:42:11.725Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A curated list of resources dedicated to Account Abstraction (EIP-4337)",
@@ -1483,7 +1483,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-06-09T22:38:44Z",
-      "open_issues": 776,
+      "open_issues": 777,
       "owner": "4337Mafia",
       "repo": "awesome-account-abstraction",
       "stars": 1016,
