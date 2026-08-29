@@ -12,12 +12,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ArgentX browser extension for StarkNet - made with ❤️ by Argent",
+                "homepage": "https://github.com/argentlabs/argent-x",
                 "id": 425851845,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2025-03-14T13:34:50Z",
+                "open_issues": 95,
                 "owner": "argentlabs",
                 "repo": "argent-x",
-                "stars": 641
+                "stars": 641,
+                "topics": [
+                  "argent",
+                  "argent-x",
+                  "argentx",
+                  "browser",
+                  "cairo",
+                  "ethereum",
+                  "extension",
+                  "starknet",
+                  "starkware",
+                  "wallet"
+                ]
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -28,12 +44,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 484534921,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2025-06-25T18:03:02Z",
+                "open_issues": 15,
                 "owner": "eth-infinitism",
                 "repo": "bundler",
-                "stars": 396
+                "stars": 396,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -44,12 +65,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Safe{Core} SDK allows builders to add account abstraction functionality into their apps.",
+                "homepage": "https://docs.safe.global/sdk/overview",
                 "id": 337806885,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:26:27Z",
+                "open_issues": 63,
                 "owner": "safe-global",
                 "repo": "safe-core-sdk",
-                "stars": 323
+                "stars": 323,
+                "topics": [
+                  "abstraction",
+                  "account",
+                  "ethereum",
+                  "safe",
+                  "sdk",
+                  "smart",
+                  "typescript",
+                  "wallet"
+                ]
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -60,12 +95,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://www.alchemy.com/smart-wallets",
                 "id": 642965459,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-17T19:16:53Z",
+                "open_issues": 154,
                 "owner": "alchemyplatform",
                 "repo": "aa-sdk",
-                "stars": 321
+                "stars": 321,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -76,12 +116,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cryptographic Primitives for Blockchain Systems (solidity, cairo, C and rust)",
+                "homepage": null,
                 "id": 614408924,
                 "language": "Solidity",
+                "license": "MIT",
                 "last_commit": "2024-08-29T08:47:11Z",
+                "open_issues": 1,
                 "owner": "rdubois-crypto",
                 "repo": "FreshCryptoLib",
-                "stars": 163
+                "stars": 163,
+                "topics": [
+                  "ecdsa",
+                  "fido2",
+                  "secp256r1",
+                  "solidity",
+                  "webauthn-demo"
+                ]
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -92,12 +143,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Etherspot Prime - Account Abstraction SDK",
+                "homepage": "https://etherspot.fyi",
                 "id": 610206099,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-01-22T08:38:42Z",
+                "open_issues": 7,
                 "owner": "etherspot",
                 "repo": "etherspot-prime-sdk",
-                "stars": 129
+                "stars": 129,
+                "topics": [
+                  "account-abstraction"
+                ]
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -108,12 +166,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Biconomy SDK is a plug & play toolkit for dApps to build transaction legos that enable a highly customised one-click experience for their users",
+                "homepage": null,
                 "id": 508642433,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-10-11T14:27:41Z",
+                "open_issues": 6,
                 "owner": "bcnmy",
                 "repo": "biconomy-client-sdk",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -124,12 +187,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TypeScript library that supports validation of any type of signature: account abstraction (ERC-1271, ERC-6492), standard signatures, ERC-712",
+                "homepage": null,
                 "id": 488170638,
                 "language": "Solidity",
+                "license": null,
                 "last_commit": "2025-09-12T12:46:29Z",
+                "open_issues": 1,
                 "owner": "AmbireTech",
                 "repo": "signature-validator",
-                "stars": 68
+                "stars": 68,
+                "topics": [
+                  "eip1271",
+                  "eip6492",
+                  "eip712",
+                  "erc1271",
+                  "ethereum",
+                  "ethereum-signer",
+                  "ethers",
+                  "ethersjs",
+                  "evm",
+                  "signature-validation",
+                  "signtypeddata"
+                ]
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -140,12 +220,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 656285228,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-11T07:47:45Z",
+                "open_issues": 32,
                 "owner": "zerodevapp",
                 "repo": "sdk",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -156,12 +241,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An efficient implementation of ECDSA on secp256r1 in Cairo",
+                "homepage": null,
                 "id": 596600498,
                 "language": "Cairo",
+                "license": "GPL-3.0",
                 "last_commit": "2023-08-28T08:29:11Z",
+                "open_issues": 1,
                 "owner": "myBraavos",
                 "repo": "efficient-secp256r1",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -172,12 +262,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Etherspot Modular - Account Abstraction SDK (ERC-7579 compatible)",
+                "homepage": null,
                 "id": 809715972,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-25T14:22:49Z",
+                "open_issues": 9,
                 "owner": "etherspot",
                 "repo": "etherspot-modular-sdk",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -188,12 +283,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Programmable accounts SDK",
+                "homepage": null,
                 "id": 584943584,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-03-04T21:14:02Z",
+                "open_issues": 0,
                 "owner": "0xpass",
                 "repo": "0xpass",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -204,12 +304,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cupcakes SDK to allow developers access to Authentication & Smart Contract Wallets",
+                "homepage": null,
                 "id": 536446664,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2022-09-25T09:16:29Z",
+                "open_issues": 1,
                 "owner": "cupcakes-3",
                 "repo": "sdk",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -220,12 +325,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node.js SDK to interact with Openfort wallet infrastructure.",
+                "homepage": "https://www.openfort.io/docs/products/server/wallet",
                 "id": 641614498,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-07-30T16:22:40Z",
+                "open_issues": 10,
                 "owner": "openfort-xyz",
                 "repo": "openfort-node",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "backend",
+                  "ethereum",
+                  "nodejs",
+                  "solana",
+                  "typescript",
+                  "wallet"
+                ]
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -236,12 +353,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 600743829,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-03-17T07:24:24Z",
+                "open_issues": 0,
                 "owner": "porco-rosso-j",
                 "repo": "zksync-account-trade-limit",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -252,12 +374,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easy-to-use interfaces that combine web3 components into familiar use-cases.",
+                "homepage": null,
                 "id": 585322395,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-08-31T20:48:43Z",
+                "open_issues": 0,
                 "owner": "getwax",
                 "repo": "ethdk",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -268,12 +395,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ambire Wallet Login SDK:  onboard users who are new to Web3 by letting them create a self-custodial account using their email in seconds",
+                "homepage": null,
                 "id": 561451569,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2025-01-30T09:32:25Z",
+                "open_issues": 0,
                 "owner": "AmbireTech",
                 "repo": "wallet-login-sdk",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -284,12 +416,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 687146885,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2024-06-16T22:39:44Z",
+                "open_issues": 0,
                 "owner": "TrueWallet",
                 "repo": "js-sdk",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             }
@@ -307,12 +444,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Safe allows secure management of blockchain assets. ",
+                "homepage": "https://safe.global",
                 "id": 102186072,
                 "language": "TypeScript",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-08-14T15:27:24Z",
+                "open_issues": 34,
                 "owner": "safe-fndn",
                 "repo": "safe-smart-account",
-                "stars": 2175
+                "stars": 2175,
+                "topics": [
+                  "ethereum",
+                  "solidity",
+                  "wallet"
+                ]
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -323,12 +469,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 451509672,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-01-25T19:41:37Z",
+                "open_issues": 8,
                 "owner": "eth-infinitism",
                 "repo": "account-abstraction",
-                "stars": 1938
+                "stars": 1938,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -339,12 +490,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "core contract of eip 4337 implementation",
+                "homepage": null,
                 "id": 522832645,
                 "language": "Solidity",
+                "license": null,
                 "last_commit": "2024-10-22T05:32:18Z",
+                "open_issues": 13,
                 "owner": "Elytro-eth",
                 "repo": "soul-wallet-contract",
-                "stars": 288
+                "stars": 288,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -355,12 +511,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "https://docs.zerodev.app/",
+                "homepage": null,
                 "id": 616475000,
                 "language": "Solidity",
+                "license": null,
                 "last_commit": "2026-08-13T14:14:40Z",
+                "open_issues": 2,
                 "owner": "zerodevapp",
                 "repo": "kernel",
-                "stars": 255
+                "stars": 255,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -371,12 +532,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ambire Wallet: making self-custody easy and secure for the EVM ecosystem",
+                "homepage": "https://www.ambire.com",
                 "id": 437601831,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-16T13:09:21Z",
+                "open_issues": 4,
                 "owner": "AmbireTech",
                 "repo": "wallet",
-                "stars": 234
+                "stars": 234,
+                "topics": [
+                  "aave",
+                  "account-abstraction",
+                  "arbitrum",
+                  "defi",
+                  "eip-4337",
+                  "eip1559",
+                  "eip4337",
+                  "erc-4337",
+                  "ethereum",
+                  "evm",
+                  "evm-chains",
+                  "optimism",
+                  "smart-contract-wallet",
+                  "smart-wallet",
+                  "solidity"
+                ]
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -387,12 +569,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Core components to use layer 2 smart contract wallets with the BLS signature scheme",
+                "homepage": null,
                 "id": 418278643,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-08-15T15:06:17Z",
+                "open_issues": 0,
                 "owner": "getwax",
                 "repo": "bls-wallet",
-                "stars": 175
+                "stars": 175,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -403,12 +590,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 720239677,
                 "language": "Solidity",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-06T22:43:24Z",
+                "open_issues": 4,
                 "owner": "alchemyplatform",
                 "repo": "modular-account",
-                "stars": 144
+                "stars": 144,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -419,12 +611,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SCW contracts for Biconomy Smart Account",
+                "homepage": null,
                 "id": 500922844,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-11-08T13:36:54Z",
+                "open_issues": 1,
                 "owner": "bcnmy",
                 "repo": "scw-contracts",
-                "stars": 135
+                "stars": 135,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -435,12 +632,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 688142591,
                 "language": "Solidity",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-11T15:56:06Z",
+                "open_issues": 4,
                 "owner": "alchemyplatform",
                 "repo": "light-account",
-                "stars": 115
+                "stars": 115,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -451,12 +653,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Account Abstraction smart contract accounts, modules, audits, tests, and formal verification",
+                "homepage": "https://candide.dev",
                 "id": 535849486,
                 "language": "Solidity",
+                "license": "GPL-3.0",
                 "last_commit": "2025-02-17T18:12:37Z",
+                "open_issues": 0,
                 "owner": "candidelabs",
                 "repo": "candide-contracts",
-                "stars": 80
+                "stars": 80,
+                "topics": [
+                  "bls",
+                  "eip-4337",
+                  "paymaster",
+                  "social-recovery"
+                ]
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -467,12 +679,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 598068162,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-04-17T12:13:23Z",
+                "open_issues": 8,
                 "owner": "etherspot",
                 "repo": "etherspot-prime-contracts",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -483,12 +700,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Openfort Smart Contracts",
+                "homepage": null,
                 "id": 633913325,
                 "language": "Solidity",
+                "license": "GPL-3.0",
                 "last_commit": "2025-12-31T16:15:11Z",
+                "open_issues": 1,
                 "owner": "openfort-xyz",
                 "repo": "openfort-contracts",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "aa",
+                  "erc-4337",
+                  "evm-blockchain",
+                  "solidity",
+                  "web3"
+                ]
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -499,12 +727,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Contracts for Onit smart account - A passkey controlled ERC-4337 Safe wallet",
+                "homepage": "https://onit.fun",
                 "id": 561411360,
                 "language": "Solidity",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-08-30T11:30:16Z",
+                "open_issues": 0,
                 "owner": "onit-labs",
                 "repo": "onit-smart-contract-account",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "erc-4337",
+                  "foundry",
+                  "multisig",
+                  "passkey",
+                  "wallet"
+                ]
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -515,12 +754,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Patch Wallet: BaseAccount",
+                "homepage": "https://app.patchwallet.com",
                 "id": 586112201,
                 "language": "Solidity",
+                "license": null,
                 "last_commit": "2023-10-05T21:34:44Z",
+                "open_issues": 1,
                 "owner": "PaymagicXYZ",
                 "repo": "patch-base-account-contracts",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -531,12 +775,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Account abstraction (ERC-4337) smart contracts and modules",
+                "homepage": null,
                 "id": 610558144,
                 "language": "Solidity",
+                "license": "GPL-3.0",
                 "last_commit": "2024-08-11T05:06:01Z",
+                "open_issues": 1,
                 "owner": "TrueWallet",
                 "repo": "contracts",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "account-abstraction",
+                  "blockchain",
+                  "erc-4337",
+                  "smart-account",
+                  "solidity"
+                ]
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -547,12 +802,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shakesco Smart Contracts for ERC-4337 smart wallet",
+                "homepage": "https://shakesco.com/",
                 "id": 777458035,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-17T18:42:19Z",
+                "open_issues": 0,
                 "owner": "shakesco",
                 "repo": "shakesco-contracts",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "erc4337",
+                  "shakesco",
+                  "smart-contracts",
+                  "smart-wallet",
+                  "stealth-addresses"
+                ]
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             }
@@ -570,12 +836,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modular typescript implementation of ERC4337 (Account Abstraction) bundler client.",
+                "homepage": "https://etherspot.io",
                 "id": 586821913,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-11T10:16:49Z",
+                "open_issues": 12,
                 "owner": "etherspot",
                 "repo": "skandha",
-                "stars": 614
+                "stars": 614,
+                "topics": [
+                  "account-abstraction",
+                  "bundler",
+                  "eip4337",
+                  "erc4337",
+                  "ethereum",
+                  "smart-wallet",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -586,12 +865,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 484534921,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2025-06-25T18:03:02Z",
+                "open_issues": 15,
                 "owner": "eth-infinitism",
                 "repo": "bundler",
-                "stars": 396
+                "stars": 396,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -602,12 +886,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An ERC-4337 Bundler in Rust",
+                "homepage": null,
                 "id": 597939974,
                 "language": "Rust",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-08-18T20:02:47Z",
+                "open_issues": 46,
                 "owner": "alchemyplatform",
                 "repo": "rundler",
-                "stars": 391
+                "stars": 391,
+                "topics": [
+                  "erc4337",
+                  "ethereum",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -618,12 +911,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ERC-4337 (Account Abstraction) - modular and efficient bundler implementation in Rust.",
+                "homepage": "http://silius.rs/",
                 "id": 555758437,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-08-18T21:35:10Z",
+                "open_issues": 34,
                 "owner": "silius-rs",
                 "repo": "silius",
-                "stars": 273
+                "stars": 273,
+                "topics": [
+                  "account-abstraction",
+                  "bundler",
+                  "eip-4337",
+                  "erc-4337",
+                  "ethereum",
+                  "modular",
+                  "p2p",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -634,12 +941,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A fast, reliable, and modular ERC-4337 Bundler written in Go.",
+                "homepage": "https://docs.stackup.sh",
                 "id": 547597394,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2024-08-12T17:31:27Z",
+                "open_issues": 53,
                 "owner": "stackup-wallet",
                 "repo": "stackup-bundler",
-                "stars": 244
+                "stars": 244,
+                "topics": [
+                  "account-abstraction",
+                  "bundler",
+                  "erc4337",
+                  "ethereum",
+                  "go",
+                  "golang"
+                ]
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -650,12 +969,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A performant, reliable, and type-safe ERC-4337 Bundler written in Typescript",
+                "homepage": "https://docs.pimlico.io/reference/bundler",
                 "id": 625811453,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-21T16:51:13Z",
+                "open_issues": 23,
                 "owner": "pimlicolabs",
                 "repo": "alto",
-                "stars": 231
+                "stars": 231,
+                "topics": [
+                  "erc4337",
+                  "ethereum"
+                ]
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -666,12 +993,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Account Abstraction Bundler written in Python & Rust - ERC-4337",
+                "homepage": "https://docs.candide.dev/wallet/bundler/erc-4337-intro",
                 "id": 601415811,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-08-22T18:03:34Z",
+                "open_issues": 0,
                 "owner": "candidelabs",
                 "repo": "voltaire",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "bundler",
+                  "erc4337",
+                  "ethereum"
+                ]
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -682,12 +1018,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 724077044,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2024-06-28T10:45:17Z",
+                "open_issues": 0,
                 "owner": "okx",
                 "repo": "OKBund",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -698,12 +1039,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 625661547,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-08T23:04:31Z",
+                "open_issues": 2,
                 "owner": "transeptorlabs",
                 "repo": "transeptor-bundler",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             }
@@ -721,12 +1067,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An ERC-4337 Paymaster contract by Pimlico that is able to sponsor gas fees in exchange for ERC-20 tokens",
+                "homepage": "https://pimlico.io",
                 "id": 619955186,
                 "language": "Solidity",
+                "license": "MIT",
                 "last_commit": "2025-11-06T13:29:35Z",
+                "open_issues": 6,
                 "owner": "pimlicolabs",
                 "repo": "erc20-paymaster",
-                "stars": 113
+                "stars": 113,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -737,12 +1088,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ARKA - (Albanian for Cashier's case) is the first open source \"Paymaster\" as a service software.",
+                "homepage": "https://arka.etherspot.io",
                 "id": 663163324,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-16T15:41:25Z",
+                "open_issues": 15,
                 "owner": "etherspot",
                 "repo": "arka",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "account-abstraction",
+                  "eip4337",
+                  "erc4337",
+                  "paymaster"
+                ]
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -753,12 +1114,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Paymasters development project ",
+                "homepage": null,
                 "id": 625294142,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-10-10T18:33:30Z",
+                "open_issues": 0,
                 "owner": "bcnmy",
                 "repo": "biconomy-paymasters",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -769,12 +1135,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Paymaster RPC endpoints for ERC-4337",
+                "homepage": null,
                 "id": 556298709,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-05-10T13:18:15Z",
+                "open_issues": 0,
                 "owner": "candidelabs",
                 "repo": "Candide-Paymaster-RPC",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -785,12 +1156,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Paymasters for on-chain Governance",
+                "homepage": null,
                 "id": 754812820,
                 "language": "Solidity",
+                "license": null,
                 "last_commit": "2024-04-24T20:45:21Z",
+                "open_issues": 0,
                 "owner": "meliopolis",
                 "repo": "governance-paymaster",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             }
@@ -808,12 +1184,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bundler specification test suites",
+                "homepage": null,
                 "id": 565504922,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-05-15T10:09:58Z",
+                "open_issues": 8,
                 "owner": "eth-infinitism",
                 "repo": "bundler-spec-tests",
-                "stars": 82
+                "stars": 82,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             }
@@ -831,12 +1212,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Argent accounts for Starknet",
+                "homepage": "https://www.argent.xyz",
                 "id": 412480844,
                 "language": "Cairo",
+                "license": "GPL-3.0",
                 "last_commit": "2025-11-07T09:41:06Z",
+                "open_issues": 0,
                 "owner": "argentlabs",
                 "repo": "argent-contracts-starknet",
-                "stars": 180
+                "stars": 180,
+                "topics": [
+                  "account",
+                  "argent",
+                  "cairo",
+                  "smart-contracts",
+                  "starknet"
+                ]
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -847,12 +1239,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Braavos Account Contract for Starknet",
+                "homepage": "https://braavos.app",
                 "id": 597522628,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-05-08T19:08:18Z",
+                "open_issues": 1,
                 "owner": "myBraavos",
                 "repo": "braavos-account-cairo",
-                "stars": 117
+                "stars": 117,
+                "topics": [
+                  "2fa",
+                  "3fa",
+                  "account-abstraction",
+                  "biometrics",
+                  "cairo",
+                  "starknet"
+                ]
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -863,12 +1267,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Multi-signature functionality for StarkNet",
+                "homepage": null,
                 "id": 467035946,
                 "language": "Cairo",
+                "license": null,
                 "last_commit": "2026-04-29T18:53:56Z",
+                "open_issues": 0,
                 "owner": "equilibriumco",
                 "repo": "starknet-multisig",
-                "stars": 91
+                "stars": 91,
+                "topics": [
+                  "multisig",
+                  "starknet"
+                ]
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -879,12 +1291,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple multisig implementation for StarkNet",
+                "homepage": null,
                 "id": 461579030,
                 "language": "Cairo",
+                "license": "NOASSERTION",
                 "last_commit": "2022-05-28T15:05:22Z",
+                "open_issues": 0,
                 "owner": "sambarnes",
                 "repo": "cairo-multisig",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "cairo",
+                  "cairo-lang",
+                  "multisig",
+                  "multisignature",
+                  "starknet"
+                ]
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             },
@@ -895,12 +1318,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 489433297,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2024-02-09T13:40:27Z",
+                "open_issues": 3,
                 "owner": "Guildly",
                 "repo": "contracts",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             }
@@ -918,12 +1346,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome Node providers and public RPC endpoints for Ethereum, BSC, Gnosis (xDAI), Fantom, Avalanche, KuCoin, Fuse, Harmony, Tezos, IoTeX, Arbitrum, Optimism and more :) ",
+                "homepage": "https://multinodes.xyz",
                 "id": 383086796,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-08-28T14:42:04Z",
+                "open_issues": 1267,
                 "owner": "arddluma",
                 "repo": "awesome-list-rpc-nodes-providers",
-                "stars": 914
+                "stars": 914,
+                "topics": [
+                  "account-abstraction",
+                  "avalanche",
+                  "awesome",
+                  "awesome-list",
+                  "blockchain",
+                  "bsc",
+                  "cryptocurrency",
+                  "curated-list",
+                  "erc-4337",
+                  "ethereum",
+                  "etherspot",
+                  "evm",
+                  "fantom",
+                  "polygon",
+                  "providers",
+                  "rpc",
+                  "rpc-node",
+                  "xdai"
+                ]
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             }
@@ -941,12 +1393,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UserOperation Indexer for EIP4337",
+                "homepage": null,
                 "id": 633783997,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2023-05-03T01:41:56Z",
+                "open_issues": 0,
                 "owner": "zsluedem",
                 "repo": "UoIndexer",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "account-abstraction",
+                  "eip4337",
+                  "ethereum",
+                  "ethers-rs",
+                  "mongodb",
+                  "rocksdb"
+                ]
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             }
@@ -969,24 +1433,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 42808596,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-10-18T04:01:33Z",
+                    "open_issues": 62,
                     "owner": "ethereum",
                     "repo": "research",
-                    "stars": 1930
+                    "stars": 1930,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:59:54.575Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 42808596,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-10-18T04:01:33Z",
+                "open_issues": 62,
                 "owner": "ethereum",
                 "repo": "research",
-                "stars": 1930
+                "stars": 1930,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
             }
@@ -1000,15 +1474,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:59:54.575Z",
+    "last_updated": "2026-08-29T04:33:19.237Z",
     "original_repository_info": {
       "archived": false,
+      "description": "📖 A curated list of resources dedicated to Account Abstraction (EIP-4337)",
+      "homepage": null,
       "id": 576811495,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-06-09T22:38:44Z",
+      "open_issues": 776,
       "owner": "4337Mafia",
       "repo": "awesome-account-abstraction",
-      "stars": 1016
+      "stars": 1016,
+      "topics": [
+        "account-abstraction",
+        "awesome",
+        "awesome-list",
+        "blockchain",
+        "dapp",
+        "eip-4337",
+        "ethereum",
+        "smart-contract-wallet",
+        "smart-contracts"
+      ]
     },
     "original_repository_sha": "058a41cfd7bc5cbb804affcb43b7152740666c03",
     "enhanced_repository": "enhansome/enhansome-account-abstraction",
