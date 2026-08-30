@@ -1352,10 +1352,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-08-28T14:42:04Z",
-                "open_issues": 1268,
+                "open_issues": 1269,
                 "owner": "arddluma",
                 "repo": "awesome-list-rpc-nodes-providers",
-                "stars": 914,
+                "stars": 913,
                 "topics": [
                   "account-abstraction",
                   "avalanche",
@@ -1474,7 +1474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T14:42:11.725Z",
+    "last_updated": "2026-08-30T14:31:29.442Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A curated list of resources dedicated to Account Abstraction (EIP-4337)",
@@ -1483,7 +1483,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-06-09T22:38:44Z",
-      "open_issues": 777,
+      "open_issues": 778,
       "owner": "4337Mafia",
       "repo": "awesome-account-abstraction",
       "stars": 1016,
