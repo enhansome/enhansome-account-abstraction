@@ -136,7 +136,7 @@
 * [etherspot/modular-sdk](https://github.com/etherspot/etherspot-modular-sdk) ⭐ 22 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-25
 * [0xpass/0xpass](https://github.com/0xpass/0xpass) ⭐ 17 | 🐛 0 | 📅 2024-03-04
 * [cupcakes-3/sdk](https://github.com/cupcakes-3/sdk) ⭐ 12 | 🐛 1 | 🌐 TypeScript | 📅 2022-09-25
-* [openfort-xyz/openfort-node](https://github.com/openfort-xyz/openfort-node) ⭐ 10 | 🐛 10 | 🌐 TypeScript | 📅 2026-07-30
+* [openfort-xyz/openfort-node](https://github.com/openfort-xyz/openfort-node) ⭐ 10 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-31
 * [porco-rosso-j/zksync-account-trade-limit](https://github.com/porco-rosso-j/zksync-account-trade-limit) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2023-03-17
 * [web3well/easy-web3](https://github.com/web3well/easy-web3) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2023-08-31
 * [AmbireTech/wallet-login-sdk](https://github.com/AmbireTech/wallet-login-sdk) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2025-01-30
@@ -151,7 +151,7 @@
 
 ### Smart Contracts (EVM)
 
-* [Safe](https://github.com/safe-global/safe-contracts/) ⭐ 2,176 | 🐛 34 | 🌐 TypeScript | 📅 2026-08-14
+* [Safe](https://github.com/safe-global/safe-contracts/) ⭐ 2,176 | 🐛 35 | 🌐 TypeScript | 📅 2026-08-31
 * [Infinitism](https://github.com/eth-infinitism/account-abstraction) ⭐ 1,938 | 🐛 8 | 🌐 TypeScript | 📅 2026-01-25
 * [Soul Wallet](https://github.com/proofofsoulprotocol/soul-wallet-contract) ⚠️ Archived
 * [ZeroDev (Kernel)](https://github.com/zerodevapp/kernel) ⭐ 255 | 🐛 2 | 🌐 Solidity | 📅 2026-08-13
@@ -178,7 +178,7 @@
 * [Rundler - Rust Implementation](https://github.com/alchemyplatform/rundler/tree/main) ⭐ 391 | 🐛 46 | 🌐 Rust | 📅 2026-08-18 by Alchemy
 * [Silius - Rust Implementation](https://github.com/Vid201/silius/) ⭐ 273 | 🐛 34 | 🌐 Rust | 📅 2025-08-18 - [blog](https://hackmd.io/@Vid201/aa-bundler-rust)
 * [Stackup - Golang Implementation](https://github.com/stackup-wallet/stackup-bundler) ⚠️ Archived by Stackup
-* [Alto - Typescript Implementation](https://github.com/pimlicolabs/alto) ⭐ 231 | 🐛 23 | 🌐 TypeScript | 📅 2026-08-21 by Pimlico
+* [Alto - Typescript Implementation](https://github.com/pimlicolabs/alto) ⭐ 231 | 🐛 24 | 🌐 TypeScript | 📅 2026-08-21 by Pimlico
 * [Voltaire - Python Implementation](https://github.com/candidelabs/voltaire) ⭐ 59 | 🐛 0 | 🌐 Python | 📅 2026-08-22 by Candide
 * [OKBund - Java Implementation](https://github.com/okx/OKBund) ⭐ 33 | 🐛 0 | 🌐 Java | 📅 2024-06-28 by OKX
 * [Transeptor - Typescript Implementation](https://github.com/transeptorlabs/transeptor-bundler) ⭐ 27 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-08 by Transeptor Labs
@@ -212,7 +212,7 @@
 
 ### RPC Providers
 
-* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 913 | 🐛 1,269 | 📅 2025-08-28
+* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 913 | 🐛 1,270 | 📅 2025-08-28
 
 ### L2 Integration API
 
@@ -315,4 +315,4 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
