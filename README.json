@@ -71,7 +71,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-28T09:26:27Z",
-                "open_issues": 63,
+                "open_issues": 64,
                 "owner": "safe-global",
                 "repo": "safe-core-sdk",
                 "stars": 323,
@@ -330,7 +330,7 @@
                 "id": 641614498,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-08-31T15:20:20Z",
+                "last_commit": "2026-09-01T10:57:41Z",
                 "open_issues": 10,
                 "owner": "openfort-xyz",
                 "repo": "openfort-node",
@@ -453,7 +453,7 @@
                 "open_issues": 35,
                 "owner": "safe-fndn",
                 "repo": "safe-smart-account",
-                "stars": 2176,
+                "stars": 2177,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -520,7 +520,7 @@
                 "open_issues": 2,
                 "owner": "zerodevapp",
                 "repo": "kernel",
-                "stars": 255,
+                "stars": 254,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
@@ -974,7 +974,7 @@
                 "id": 625811453,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-21T16:51:13Z",
+                "last_commit": "2026-09-01T00:09:26Z",
                 "open_issues": 24,
                 "owner": "pimlicolabs",
                 "repo": "alto",
@@ -1352,7 +1352,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-08-28T14:42:04Z",
-                "open_issues": 1270,
+                "open_issues": 1271,
                 "owner": "arddluma",
                 "repo": "awesome-list-rpc-nodes-providers",
                 "stars": 913,
@@ -1442,7 +1442,7 @@
                     "open_issues": 62,
                     "owner": "ethereum",
                     "repo": "research",
-                    "stars": 1930,
+                    "stars": 1931,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:59:54.575Z"
@@ -1459,7 +1459,7 @@
                 "open_issues": 62,
                 "owner": "ethereum",
                 "repo": "research",
-                "stars": 1930,
+                "stars": 1931,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
@@ -1474,7 +1474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T17:14:51.308Z",
+    "last_updated": "2026-09-01T14:19:08.705Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A curated list of resources dedicated to Account Abstraction (EIP-4337)",
@@ -1483,7 +1483,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-06-09T22:38:44Z",
-      "open_issues": 779,
+      "open_issues": 780,
       "owner": "4337Mafia",
       "repo": "awesome-account-abstraction",
       "stars": 1016,
