@@ -125,7 +125,7 @@
 
 * [argentlabs/argent-x](https://github.com/argentlabs/argent-x) ⭐ 641 | 🐛 95 | 🌐 TypeScript | 📅 2025-03-14
 * [eth-infinitism/bundler](https://github.com/eth-infinitism/bundler) ⭐ 396 | 🐛 15 | 🌐 TypeScript | 📅 2025-06-25
-* [safe-global/safe-core-sdk](https://github.com/safe-global/safe-core-sdk) ⭐ 323 | 🐛 64 | 🌐 TypeScript | 📅 2026-08-28
+* [safe-global/safe-core-sdk](https://github.com/safe-global/safe-core-sdk) ⭐ 323 | 🐛 70 | 🌐 TypeScript | 📅 2026-08-28
 * [alchemyplatform/aa-sdk](https://github.com/alchemyplatform/aa-sdk) ⭐ 321 | 🐛 154 | 🌐 TypeScript | 📅 2026-08-17
 * [rdubois-crypto/FreshCryptoLib](https://github.com/rdubois-crypto/FreshCryptoLib) ⭐ 163 | 🐛 1 | 🌐 Solidity | 📅 2024-08-29
 * [etherspot/prime-sdk](https://github.com/etherspot/etherspot-prime-sdk) ⭐ 129 | 🐛 7 | 🌐 TypeScript | 📅 2026-01-22
@@ -151,15 +151,15 @@
 
 ### Smart Contracts (EVM)
 
-* [Safe](https://github.com/safe-global/safe-contracts/) ⭐ 2,177 | 🐛 35 | 🌐 TypeScript | 📅 2026-08-31
+* [Safe](https://github.com/safe-global/safe-contracts/) ⭐ 2,177 | 🐛 34 | 🌐 TypeScript | 📅 2026-09-02
 * [Infinitism](https://github.com/eth-infinitism/account-abstraction) ⭐ 1,938 | 🐛 8 | 🌐 TypeScript | 📅 2026-01-25
 * [Soul Wallet](https://github.com/proofofsoulprotocol/soul-wallet-contract) ⚠️ Archived
-* [ZeroDev (Kernel)](https://github.com/zerodevapp/kernel) ⭐ 254 | 🐛 2 | 🌐 Solidity | 📅 2026-08-13
-* [Ambire Wallet](https://github.com/AmbireTech/wallet/tree/development/contracts) ⭐ 234 | 🐛 4 | 🌐 JavaScript | 📅 2026-03-16
+* [ZeroDev (Kernel)](https://github.com/zerodevapp/kernel) ⭐ 254 | 🐛 2 | 🌐 Solidity | 📅 2026-09-02
+* [Ambire Wallet](https://github.com/AmbireTech/wallet/tree/development/contracts) ⭐ 235 | 🐛 4 | 🌐 JavaScript | 📅 2026-03-16
 * [BLS Wallet](https://github.com/web3well/bls-wallet/tree/main/contracts) ⚠️ Archived
 * [Alchemy ModularAccount](https://github.com/alchemyplatform/modular-account) ⭐ 144 | 🐛 4 | 🌐 Solidity | 📅 2026-08-06
 * [Biconomy](https://github.com/bcnmy/scw-contracts) ⭐ 135 | 🐛 1 | 🌐 TypeScript | 📅 2024-11-08
-* [Alchemy LightAccount](https://github.com/alchemyplatform/light-account/) ⭐ 115 | 🐛 4 | 🌐 Solidity | 📅 2026-08-11
+* [Alchemy LightAccount](https://github.com/alchemyplatform/light-account/) ⭐ 114 | 🐛 4 | 🌐 Solidity | 📅 2026-08-11
 * [Candide Wallet](https://github.com/candidelabs/CandideWalletContracts) ⭐ 80 | 🐛 0 | 🌐 Solidity | 📅 2025-02-17
 * [Etherspot](https://github.com/etherspot/etherspot-prime-contracts) ⭐ 55 | 🐛 8 | 🌐 TypeScript | 📅 2025-04-17
 * [Openfort](https://github.com/openfort-xyz/openfort-contracts) ⭐ 36 | 🐛 1 | 🌐 Solidity | 📅 2025-12-31
@@ -199,7 +199,7 @@
 
 ### Starknet
 
-* [Argent account contracts on Starknet](https://github.com/argentlabs/argent-contracts-starknet) ⭐ 180 | 🐛 0 | 🌐 Cairo | 📅 2025-11-07
+* [Argent account contracts on Starknet](https://github.com/argentlabs/argent-contracts-starknet) ⭐ 181 | 🐛 0 | 🌐 Cairo | 📅 2025-11-07
 * [Braavos account contracts including multisig and Hardware Signer](https://github.com/myBraavos/braavos-account-cairo) ⭐ 117 | 🐛 1 | 🌐 Python | 📅 2025-05-08
 * [Multisig wallet on StarkNet](https://github.com/eqlabs/starknet-multisig/) ⚠️ Archived
 * [Another Multisig wallet on StarkNet](https://github.com/sambarnes/cairo-multisig) ⭐ 43 | 🐛 0 | 🌐 Cairo | 📅 2022-05-28
@@ -212,7 +212,7 @@
 
 ### RPC Providers
 
-* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 913 | 🐛 1,271 | 📅 2025-08-28
+* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 913 | 🐛 1,273 | 📅 2025-08-28
 
 ### L2 Integration API
 
@@ -315,4 +315,4 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
