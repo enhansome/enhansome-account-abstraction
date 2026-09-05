@@ -541,7 +541,7 @@
                 "open_issues": 4,
                 "owner": "AmbireTech",
                 "repo": "wallet",
-                "stars": 235,
+                "stars": 236,
                 "topics": [
                   "aave",
                   "account-abstraction",
@@ -841,7 +841,7 @@
                 "id": 586821913,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-07-11T10:16:49Z",
+                "last_commit": "2026-09-04T20:39:43Z",
                 "open_issues": 12,
                 "owner": "etherspot",
                 "repo": "skandha",
@@ -891,7 +891,7 @@
                 "id": 597939974,
                 "language": "Rust",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-09-03T01:49:39Z",
+                "last_commit": "2026-09-04T19:16:31Z",
                 "open_issues": 47,
                 "owner": "alchemyplatform",
                 "repo": "rundler",
@@ -1352,7 +1352,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-08-28T14:42:04Z",
-                "open_issues": 1276,
+                "open_issues": 1277,
                 "owner": "arddluma",
                 "repo": "awesome-list-rpc-nodes-providers",
                 "stars": 913,
@@ -1474,7 +1474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T13:48:16.435Z",
+    "last_updated": "2026-09-05T13:03:02.138Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A curated list of resources dedicated to Account Abstraction (EIP-4337)",
@@ -1483,7 +1483,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-06-09T22:38:44Z",
-      "open_issues": 783,
+      "open_issues": 784,
       "owner": "4337Mafia",
       "repo": "awesome-account-abstraction",
       "stars": 1016,
