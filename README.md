@@ -125,8 +125,8 @@
 
 * [argentlabs/argent-x](https://github.com/argentlabs/argent-x) ⭐ 640 | 🐛 94 | 🌐 TypeScript | 📅 2025-03-14
 * [eth-infinitism/bundler](https://github.com/eth-infinitism/bundler) ⭐ 396 | 🐛 15 | 🌐 TypeScript | 📅 2025-06-25
-* [safe-global/safe-core-sdk](https://github.com/safe-global/safe-core-sdk) ⭐ 324 | 🐛 77 | 🌐 TypeScript | 📅 2026-09-11
-* [alchemyplatform/aa-sdk](https://github.com/alchemyplatform/aa-sdk) ⭐ 321 | 🐛 154 | 🌐 TypeScript | 📅 2026-08-17
+* [safe-global/safe-core-sdk](https://github.com/safe-global/safe-core-sdk) ⭐ 324 | 🐛 76 | 🌐 TypeScript | 📅 2026-09-11
+* [alchemyplatform/aa-sdk](https://github.com/alchemyplatform/aa-sdk) ⭐ 321 | 🐛 155 | 🌐 TypeScript | 📅 2026-08-17
 * [rdubois-crypto/FreshCryptoLib](https://github.com/rdubois-crypto/FreshCryptoLib) ⭐ 164 | 🐛 1 | 🌐 Solidity | 📅 2024-08-29
 * [etherspot/prime-sdk](https://github.com/etherspot/etherspot-prime-sdk) ⭐ 129 | 🐛 7 | 🌐 TypeScript | 📅 2026-01-22
 * [bcnmy/biconomy-client-sdk](https://github.com/bcnmy/biconomy-client-sdk) ⭐ 85 | 🐛 7 | 🌐 TypeScript | 📅 2024-10-11
@@ -212,7 +212,7 @@
 
 ### RPC Providers
 
-* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 913 | 🐛 1,283 | 📅 2025-08-28
+* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 913 | 🐛 1,284 | 📅 2025-08-28
 
 ### L2 Integration API
 
@@ -315,4 +315,4 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
