@@ -212,7 +212,7 @@
 
 ### RPC Providers
 
-* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 913 | 🐛 1,284 | 📅 2025-08-28
+* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 913 | 🐛 1,285 | 📅 2025-08-28
 
 ### L2 Integration API
 
@@ -315,4 +315,4 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
