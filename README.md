@@ -125,8 +125,8 @@
 
 * [argentlabs/argent-x](https://github.com/argentlabs/argent-x) ⭐ 639 | 🐛 94 | 🌐 TypeScript | 📅 2025-03-14
 * [eth-infinitism/bundler](https://github.com/eth-infinitism/bundler) ⭐ 396 | 🐛 15 | 🌐 TypeScript | 📅 2025-06-25
-* [safe-global/safe-core-sdk](https://github.com/safe-global/safe-core-sdk) ⭐ 324 | 🐛 76 | 🌐 TypeScript | 📅 2026-09-14
-* [alchemyplatform/aa-sdk](https://github.com/alchemyplatform/aa-sdk) ⭐ 321 | 🐛 155 | 🌐 TypeScript | 📅 2026-08-17
+* [safe-global/safe-core-sdk](https://github.com/safe-global/safe-core-sdk) ⭐ 325 | 🐛 77 | 🌐 TypeScript | 📅 2026-09-15
+* [alchemyplatform/aa-sdk](https://github.com/alchemyplatform/aa-sdk) ⭐ 321 | 🐛 155 | 🌐 TypeScript | 📅 2026-09-14
 * [rdubois-crypto/FreshCryptoLib](https://github.com/rdubois-crypto/FreshCryptoLib) ⭐ 164 | 🐛 1 | 🌐 Solidity | 📅 2024-08-29
 * [etherspot/prime-sdk](https://github.com/etherspot/etherspot-prime-sdk) ⭐ 129 | 🐛 7 | 🌐 TypeScript | 📅 2026-01-22
 * [bcnmy/biconomy-client-sdk](https://github.com/bcnmy/biconomy-client-sdk) ⭐ 85 | 🐛 7 | 🌐 TypeScript | 📅 2024-10-11
@@ -136,7 +136,7 @@
 * [etherspot/modular-sdk](https://github.com/etherspot/etherspot-modular-sdk) ⭐ 22 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-25
 * [0xpass/0xpass](https://github.com/0xpass/0xpass) ⭐ 17 | 🐛 0 | 📅 2024-03-04
 * [cupcakes-3/sdk](https://github.com/cupcakes-3/sdk) ⭐ 12 | 🐛 1 | 🌐 TypeScript | 📅 2022-09-25
-* [openfort-xyz/openfort-node](https://github.com/openfort-xyz/openfort-node) ⭐ 10 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-14
+* [openfort-xyz/openfort-node](https://github.com/openfort-xyz/openfort-node) ⭐ 10 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-15
 * [porco-rosso-j/zksync-account-trade-limit](https://github.com/porco-rosso-j/zksync-account-trade-limit) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2023-03-17
 * [web3well/easy-web3](https://github.com/web3well/easy-web3) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2023-08-31
 * [AmbireTech/wallet-login-sdk](https://github.com/AmbireTech/wallet-login-sdk) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2025-01-30
@@ -212,7 +212,7 @@
 
 ### RPC Providers
 
-* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 913 | 🐛 1,286 | 📅 2025-08-28
+* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 913 | 🐛 1,287 | 📅 2025-08-28
 
 ### L2 Integration API
 
@@ -315,4 +315,4 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
