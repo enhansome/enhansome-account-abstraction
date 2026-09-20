@@ -478,7 +478,7 @@
                 "open_issues": 10,
                 "owner": "eth-infinitism",
                 "repo": "account-abstraction",
-                "stars": 1938,
+                "stars": 1939,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
@@ -520,7 +520,7 @@
                 "open_issues": 3,
                 "owner": "zerodevapp",
                 "repo": "kernel",
-                "stars": 253,
+                "stars": 254,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
@@ -641,7 +641,7 @@
                 "open_issues": 5,
                 "owner": "alchemyplatform",
                 "repo": "light-account",
-                "stars": 114,
+                "stars": 115,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
@@ -1352,7 +1352,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-08-28T14:42:04Z",
-                "open_issues": 1292,
+                "open_issues": 1293,
                 "owner": "arddluma",
                 "repo": "awesome-list-rpc-nodes-providers",
                 "stars": 913,
@@ -1474,7 +1474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T13:28:27.668Z",
+    "last_updated": "2026-09-20T13:42:44.622Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A curated list of resources dedicated to Account Abstraction (EIP-4337)",
@@ -1483,7 +1483,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-06-09T22:38:44Z",
-      "open_issues": 800,
+      "open_issues": 801,
       "owner": "4337Mafia",
       "repo": "awesome-account-abstraction",
       "stars": 1019,

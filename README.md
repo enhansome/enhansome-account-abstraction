@@ -152,14 +152,14 @@
 ### Smart Contracts (EVM)
 
 * [Safe](https://github.com/safe-global/safe-contracts/) ⭐ 2,179 | 🐛 34 | 🌐 TypeScript | 📅 2026-09-03
-* [Infinitism](https://github.com/eth-infinitism/account-abstraction) ⭐ 1,938 | 🐛 10 | 🌐 TypeScript | 📅 2026-01-25
+* [Infinitism](https://github.com/eth-infinitism/account-abstraction) ⭐ 1,939 | 🐛 10 | 🌐 TypeScript | 📅 2026-01-25
 * [Soul Wallet](https://github.com/proofofsoulprotocol/soul-wallet-contract) ⚠️ Archived
-* [ZeroDev (Kernel)](https://github.com/zerodevapp/kernel) ⭐ 253 | 🐛 3 | 🌐 Solidity | 📅 2026-09-02
+* [ZeroDev (Kernel)](https://github.com/zerodevapp/kernel) ⭐ 254 | 🐛 3 | 🌐 Solidity | 📅 2026-09-02
 * [Ambire Wallet](https://github.com/AmbireTech/wallet/tree/development/contracts) ⭐ 236 | 🐛 4 | 🌐 JavaScript | 📅 2026-03-16
 * [BLS Wallet](https://github.com/web3well/bls-wallet/tree/main/contracts) ⚠️ Archived
 * [Alchemy ModularAccount](https://github.com/alchemyplatform/modular-account) ⭐ 144 | 🐛 5 | 🌐 Solidity | 📅 2026-08-06
 * [Biconomy](https://github.com/bcnmy/scw-contracts) ⭐ 135 | 🐛 1 | 🌐 TypeScript | 📅 2024-11-08
-* [Alchemy LightAccount](https://github.com/alchemyplatform/light-account/) ⭐ 114 | 🐛 5 | 🌐 Solidity | 📅 2026-08-11
+* [Alchemy LightAccount](https://github.com/alchemyplatform/light-account/) ⭐ 115 | 🐛 5 | 🌐 Solidity | 📅 2026-08-11
 * [Candide Wallet](https://github.com/candidelabs/CandideWalletContracts) ⭐ 80 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-17
 * [Etherspot](https://github.com/etherspot/etherspot-prime-contracts) ⭐ 55 | 🐛 8 | 🌐 TypeScript | 📅 2025-04-17
 * [Openfort](https://github.com/openfort-xyz/openfort-contracts) ⭐ 36 | 🐛 2 | 🌐 Solidity | 📅 2025-12-31
@@ -212,7 +212,7 @@
 
 ### RPC Providers
 
-* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 913 | 🐛 1,292 | 📅 2025-08-28
+* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 913 | 🐛 1,293 | 📅 2025-08-28
 
 ### L2 Integration API
 
@@ -315,4 +315,4 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
