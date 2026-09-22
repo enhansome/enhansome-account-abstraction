@@ -155,7 +155,7 @@
 * [Infinitism](https://github.com/eth-infinitism/account-abstraction) ⭐ 1,939 | 🐛 11 | 🌐 TypeScript | 📅 2026-01-25
 * [Soul Wallet](https://github.com/proofofsoulprotocol/soul-wallet-contract) ⚠️ Archived
 * [ZeroDev (Kernel)](https://github.com/zerodevapp/kernel) ⭐ 254 | 🐛 3 | 🌐 Solidity | 📅 2026-09-02
-* [Ambire Wallet](https://github.com/AmbireTech/wallet/tree/development/contracts) ⭐ 236 | 🐛 5 | 🌐 JavaScript | 📅 2026-03-16
+* [Ambire Wallet](https://github.com/AmbireTech/wallet/tree/development/contracts) ⭐ 237 | 🐛 5 | 🌐 JavaScript | 📅 2026-03-16
 * [BLS Wallet](https://github.com/web3well/bls-wallet/tree/main/contracts) ⚠️ Archived
 * [Alchemy ModularAccount](https://github.com/alchemyplatform/modular-account) ⭐ 144 | 🐛 5 | 🌐 Solidity | 📅 2026-08-06
 * [Biconomy](https://github.com/bcnmy/scw-contracts) ⭐ 135 | 🐛 1 | 🌐 TypeScript | 📅 2024-11-08
@@ -178,7 +178,7 @@
 * [Rundler - Rust Implementation](https://github.com/alchemyplatform/rundler/tree/main) ⭐ 391 | 🐛 49 | 🌐 Rust | 📅 2026-09-10 by Alchemy
 * [Silius - Rust Implementation](https://github.com/Vid201/silius/) ⭐ 273 | 🐛 34 | 🌐 Rust | 📅 2025-08-18 - [blog](https://hackmd.io/@Vid201/aa-bundler-rust)
 * [Stackup - Golang Implementation](https://github.com/stackup-wallet/stackup-bundler) ⚠️ Archived by Stackup
-* [Alto - Typescript Implementation](https://github.com/pimlicolabs/alto) ⭐ 231 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-21 by Pimlico
+* [Alto - Typescript Implementation](https://github.com/pimlicolabs/alto) ⭐ 231 | 🐛 25 | 🌐 TypeScript | 📅 2026-09-21 by Pimlico
 * [Voltaire - Python Implementation](https://github.com/candidelabs/voltaire) ⭐ 59 | 🐛 0 | 🌐 Python | 📅 2026-09-18 by Candide
 * [OKBund - Java Implementation](https://github.com/okx/OKBund) ⭐ 33 | 🐛 0 | 🌐 Java | 📅 2024-06-28 by OKX
 * [Transeptor - Typescript Implementation](https://github.com/transeptorlabs/transeptor-bundler) ⭐ 27 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-08 by Transeptor Labs
@@ -212,7 +212,7 @@
 
 ### RPC Providers
 
-* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 913 | 🐛 1,294 | 📅 2025-08-28
+* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 913 | 🐛 1,295 | 📅 2025-08-28
 
 ### L2 Integration API
 
@@ -315,4 +315,4 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._

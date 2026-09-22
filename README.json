@@ -541,7 +541,7 @@
                 "open_issues": 5,
                 "owner": "AmbireTech",
                 "repo": "wallet",
-                "stars": 236,
+                "stars": 237,
                 "topics": [
                   "aave",
                   "account-abstraction",
@@ -975,7 +975,7 @@
                 "language": "TypeScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-21T13:17:24Z",
-                "open_issues": 24,
+                "open_issues": 25,
                 "owner": "pimlicolabs",
                 "repo": "alto",
                 "stars": 231,
@@ -1352,7 +1352,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-08-28T14:42:04Z",
-                "open_issues": 1294,
+                "open_issues": 1295,
                 "owner": "arddluma",
                 "repo": "awesome-list-rpc-nodes-providers",
                 "stars": 913,
@@ -1474,7 +1474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T16:01:53.385Z",
+    "last_updated": "2026-09-22T14:12:15.832Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A curated list of resources dedicated to Account Abstraction (EIP-4337)",
@@ -1483,7 +1483,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-06-09T22:38:44Z",
-      "open_issues": 802,
+      "open_issues": 803,
       "owner": "4337Mafia",
       "repo": "awesome-account-abstraction",
       "stars": 1020,
