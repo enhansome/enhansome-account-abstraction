@@ -126,7 +126,7 @@
 * [argentlabs/argent-x](https://github.com/argentlabs/argent-x) ⭐ 639 | 🐛 95 | 🌐 TypeScript | 📅 2025-03-14
 * [eth-infinitism/bundler](https://github.com/eth-infinitism/bundler) ⭐ 396 | 🐛 15 | 🌐 TypeScript | 📅 2025-06-25
 * [safe-global/safe-core-sdk](https://github.com/safe-global/safe-core-sdk) ⭐ 326 | 🐛 78 | 🌐 TypeScript | 📅 2026-09-18
-* [alchemyplatform/aa-sdk](https://github.com/alchemyplatform/aa-sdk) ⭐ 321 | 🐛 155 | 🌐 TypeScript | 📅 2026-09-16
+* [alchemyplatform/aa-sdk](https://github.com/alchemyplatform/aa-sdk) ⭐ 321 | 🐛 156 | 🌐 TypeScript | 📅 2026-09-22
 * [rdubois-crypto/FreshCryptoLib](https://github.com/rdubois-crypto/FreshCryptoLib) ⭐ 164 | 🐛 1 | 🌐 Solidity | 📅 2024-08-29
 * [etherspot/prime-sdk](https://github.com/etherspot/etherspot-prime-sdk) ⭐ 129 | 🐛 7 | 🌐 TypeScript | 📅 2026-01-22
 * [bcnmy/biconomy-client-sdk](https://github.com/bcnmy/biconomy-client-sdk) ⭐ 85 | 🐛 7 | 🌐 TypeScript | 📅 2024-10-11
@@ -151,7 +151,7 @@
 
 ### Smart Contracts (EVM)
 
-* [Safe](https://github.com/safe-global/safe-contracts/) ⭐ 2,179 | 🐛 34 | 🌐 TypeScript | 📅 2026-09-03
+* [Safe](https://github.com/safe-global/safe-contracts/) ⭐ 2,180 | 🐛 35 | 🌐 TypeScript | 📅 2026-09-23
 * [Infinitism](https://github.com/eth-infinitism/account-abstraction) ⭐ 1,939 | 🐛 11 | 🌐 TypeScript | 📅 2026-01-25
 * [Soul Wallet](https://github.com/proofofsoulprotocol/soul-wallet-contract) ⚠️ Archived
 * [ZeroDev (Kernel)](https://github.com/zerodevapp/kernel) ⭐ 254 | 🐛 3 | 🌐 Solidity | 📅 2026-09-02
@@ -212,7 +212,7 @@
 
 ### RPC Providers
 
-* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 913 | 🐛 1,295 | 📅 2025-08-28
+* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 916 | 🐛 1,297 | 📅 2025-08-28
 
 ### L2 Integration API
 
@@ -315,4 +315,4 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
