@@ -450,7 +450,7 @@
                 "language": "TypeScript",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-09-24T04:50:13Z",
-                "open_issues": 34,
+                "open_issues": 35,
                 "owner": "safe-fndn",
                 "repo": "safe-smart-account",
                 "stars": 2181,
@@ -1352,7 +1352,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-08-28T14:42:04Z",
-                "open_issues": 1299,
+                "open_issues": 1300,
                 "owner": "arddluma",
                 "repo": "awesome-list-rpc-nodes-providers",
                 "stars": 916,
@@ -1474,7 +1474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T14:27:38.177Z",
+    "last_updated": "2026-09-25T14:45:07.327Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A curated list of resources dedicated to Account Abstraction (EIP-4337)",
@@ -1483,10 +1483,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-06-09T22:38:44Z",
-      "open_issues": 805,
+      "open_issues": 806,
       "owner": "4337Mafia",
       "repo": "awesome-account-abstraction",
-      "stars": 1020,
+      "stars": 1021,
       "topics": [
         "account-abstraction",
         "awesome",
