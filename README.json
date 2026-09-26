@@ -330,8 +330,8 @@
                 "id": 641614498,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-09-15T10:40:43Z",
-                "open_issues": 11,
+                "last_commit": "2026-09-25T17:25:40Z",
+                "open_issues": 1,
                 "owner": "openfort-xyz",
                 "repo": "openfort-node",
                 "stars": 10,
@@ -478,7 +478,7 @@
                 "open_issues": 11,
                 "owner": "eth-infinitism",
                 "repo": "account-abstraction",
-                "stars": 1939,
+                "stars": 1940,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
@@ -1352,7 +1352,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-08-28T14:42:04Z",
-                "open_issues": 1300,
+                "open_issues": 1301,
                 "owner": "arddluma",
                 "repo": "awesome-list-rpc-nodes-providers",
                 "stars": 916,
@@ -1474,7 +1474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T14:45:07.327Z",
+    "last_updated": "2026-09-26T13:53:44.290Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A curated list of resources dedicated to Account Abstraction (EIP-4337)",
@@ -1483,10 +1483,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-06-09T22:38:44Z",
-      "open_issues": 806,
+      "open_issues": 807,
       "owner": "4337Mafia",
       "repo": "awesome-account-abstraction",
-      "stars": 1021,
+      "stars": 1020,
       "topics": [
         "account-abstraction",
         "awesome",

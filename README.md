@@ -136,7 +136,7 @@
 * [etherspot/modular-sdk](https://github.com/etherspot/etherspot-modular-sdk) ⭐ 22 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-25
 * [0xpass/0xpass](https://github.com/0xpass/0xpass) ⭐ 17 | 🐛 0 | 📅 2024-03-04
 * [cupcakes-3/sdk](https://github.com/cupcakes-3/sdk) ⭐ 12 | 🐛 1 | 🌐 TypeScript | 📅 2022-09-25
-* [openfort-xyz/openfort-node](https://github.com/openfort-xyz/openfort-node) ⭐ 10 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-15
+* [openfort-xyz/openfort-node](https://github.com/openfort-xyz/openfort-node) ⭐ 10 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-25
 * [porco-rosso-j/zksync-account-trade-limit](https://github.com/porco-rosso-j/zksync-account-trade-limit) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2023-03-17
 * [web3well/easy-web3](https://github.com/web3well/easy-web3) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2023-08-31
 * [AmbireTech/wallet-login-sdk](https://github.com/AmbireTech/wallet-login-sdk) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2025-01-30
@@ -152,7 +152,7 @@
 ### Smart Contracts (EVM)
 
 * [Safe](https://github.com/safe-global/safe-contracts/) ⭐ 2,181 | 🐛 35 | 🌐 TypeScript | 📅 2026-09-24
-* [Infinitism](https://github.com/eth-infinitism/account-abstraction) ⭐ 1,939 | 🐛 11 | 🌐 TypeScript | 📅 2026-01-25
+* [Infinitism](https://github.com/eth-infinitism/account-abstraction) ⭐ 1,940 | 🐛 11 | 🌐 TypeScript | 📅 2026-01-25
 * [Soul Wallet](https://github.com/proofofsoulprotocol/soul-wallet-contract) ⚠️ Archived
 * [ZeroDev (Kernel)](https://github.com/zerodevapp/kernel) ⭐ 254 | 🐛 3 | 🌐 Solidity | 📅 2026-09-02
 * [Ambire Wallet](https://github.com/AmbireTech/wallet/tree/development/contracts) ⭐ 237 | 🐛 5 | 🌐 JavaScript | 📅 2026-03-16
@@ -212,7 +212,7 @@
 
 ### RPC Providers
 
-* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 916 | 🐛 1,300 | 📅 2025-08-28
+* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 916 | 🐛 1,301 | 📅 2025-08-28
 
 ### L2 Integration API
 
@@ -315,4 +315,4 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
