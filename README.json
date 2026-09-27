@@ -74,7 +74,7 @@
                 "open_issues": 74,
                 "owner": "safe-global",
                 "repo": "safe-core-sdk",
-                "stars": 326,
+                "stars": 327,
                 "topics": [
                   "abstraction",
                   "account",
@@ -330,7 +330,7 @@
                 "id": 641614498,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-09-25T17:25:40Z",
+                "last_commit": "2026-09-26T18:30:55Z",
                 "open_issues": 1,
                 "owner": "openfort-xyz",
                 "repo": "openfort-node",
@@ -998,7 +998,7 @@
                 "id": 601415811,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-09-23T21:26:17Z",
+                "last_commit": "2026-09-27T13:04:40Z",
                 "open_issues": 0,
                 "owner": "candidelabs",
                 "repo": "voltaire",
@@ -1352,7 +1352,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-08-28T14:42:04Z",
-                "open_issues": 1301,
+                "open_issues": 1302,
                 "owner": "arddluma",
                 "repo": "awesome-list-rpc-nodes-providers",
                 "stars": 916,
@@ -1442,7 +1442,7 @@
                     "open_issues": 62,
                     "owner": "ethereum",
                     "repo": "research",
-                    "stars": 1931,
+                    "stars": 1930,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:59:54.575Z"
@@ -1459,7 +1459,7 @@
                 "open_issues": 62,
                 "owner": "ethereum",
                 "repo": "research",
-                "stars": 1931,
+                "stars": 1930,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
@@ -1474,7 +1474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T13:53:44.290Z",
+    "last_updated": "2026-09-27T14:50:04.139Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A curated list of resources dedicated to Account Abstraction (EIP-4337)",
@@ -1483,10 +1483,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-06-09T22:38:44Z",
-      "open_issues": 807,
+      "open_issues": 808,
       "owner": "4337Mafia",
       "repo": "awesome-account-abstraction",
-      "stars": 1020,
+      "stars": 1021,
       "topics": [
         "account-abstraction",
         "awesome",
