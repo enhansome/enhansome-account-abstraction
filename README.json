@@ -453,7 +453,7 @@
                 "open_issues": 35,
                 "owner": "safe-fndn",
                 "repo": "safe-smart-account",
-                "stars": 2181,
+                "stars": 2182,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -658,8 +658,8 @@
                 "id": 535849486,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-28T13:03:54Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-29T11:14:32Z",
+                "open_issues": 1,
                 "owner": "candidelabs",
                 "repo": "candide-contracts",
                 "stars": 80,
@@ -895,7 +895,7 @@
                 "open_issues": 51,
                 "owner": "alchemyplatform",
                 "repo": "rundler",
-                "stars": 391,
+                "stars": 390,
                 "topics": [
                   "erc4337",
                   "ethereum",
@@ -1352,7 +1352,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-08-28T14:42:04Z",
-                "open_issues": 1303,
+                "open_issues": 1304,
                 "owner": "arddluma",
                 "repo": "awesome-list-rpc-nodes-providers",
                 "stars": 916,
@@ -1474,7 +1474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T17:49:26.393Z",
+    "last_updated": "2026-09-29T16:08:41.818Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A curated list of resources dedicated to Account Abstraction (EIP-4337)",
@@ -1483,7 +1483,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-06-09T22:38:44Z",
-      "open_issues": 809,
+      "open_issues": 810,
       "owner": "4337Mafia",
       "repo": "awesome-account-abstraction",
       "stars": 1021,
