@@ -126,7 +126,7 @@
 * [argentlabs/argent-x](https://github.com/argentlabs/argent-x) ⭐ 639 | 🐛 95 | 🌐 TypeScript | 📅 2025-03-14
 * [eth-infinitism/bundler](https://github.com/eth-infinitism/bundler) ⭐ 397 | 🐛 15 | 🌐 TypeScript | 📅 2025-06-25
 * [safe-global/safe-core-sdk](https://github.com/safe-global/safe-core-sdk) ⭐ 327 | 🐛 76 | 🌐 TypeScript | 📅 2026-09-18
-* [alchemyplatform/aa-sdk](https://github.com/alchemyplatform/aa-sdk) ⭐ 321 | 🐛 158 | 🌐 TypeScript | 📅 2026-09-23
+* [alchemyplatform/aa-sdk](https://github.com/alchemyplatform/aa-sdk) ⭐ 321 | 🐛 159 | 🌐 TypeScript | 📅 2026-10-02
 * [rdubois-crypto/FreshCryptoLib](https://github.com/rdubois-crypto/FreshCryptoLib) ⭐ 164 | 🐛 1 | 🌐 Solidity | 📅 2024-08-29
 * [etherspot/prime-sdk](https://github.com/etherspot/etherspot-prime-sdk) ⭐ 129 | 🐛 7 | 🌐 TypeScript | 📅 2026-01-22
 * [bcnmy/biconomy-client-sdk](https://github.com/bcnmy/biconomy-client-sdk) ⭐ 85 | 🐛 7 | 🌐 TypeScript | 📅 2024-10-11
@@ -154,7 +154,7 @@
 * [Safe](https://github.com/safe-global/safe-contracts/) ⭐ 2,182 | 🐛 35 | 🌐 TypeScript | 📅 2026-09-24
 * [Infinitism](https://github.com/eth-infinitism/account-abstraction) ⭐ 1,940 | 🐛 11 | 🌐 TypeScript | 📅 2026-01-25
 * [Soul Wallet](https://github.com/proofofsoulprotocol/soul-wallet-contract) ⚠️ Archived
-* [ZeroDev (Kernel)](https://github.com/zerodevapp/kernel) ⭐ 254 | 🐛 3 | 🌐 Solidity | 📅 2026-09-02
+* [ZeroDev (Kernel)](https://github.com/zerodevapp/kernel) ⭐ 254 | 🐛 2 | 🌐 Solidity | 📅 2026-10-03
 * [Ambire Wallet](https://github.com/AmbireTech/wallet/tree/development/contracts) ⭐ 238 | 🐛 5 | 🌐 JavaScript | 📅 2026-03-16
 * [BLS Wallet](https://github.com/web3well/bls-wallet/tree/main/contracts) ⚠️ Archived
 * [Alchemy ModularAccount](https://github.com/alchemyplatform/modular-account) ⭐ 144 | 🐛 5 | 🌐 Solidity | 📅 2026-08-06
@@ -166,7 +166,7 @@
 * [Forum Wallet](https://github.com/forumdaos/forum-contracts) ⭐ 20 | 🐛 0 | 🌐 Solidity | 📅 2024-08-30
 * [Patch Wallet](https://github.com/PaymagicXYZ/patch-base-account-contracts) ⭐ 15 | 🐛 1 | 🌐 Solidity | 📅 2023-10-05
 * [TrueWallet](https://github.com/TrueWallet/contracts) ⭐ 9 | 🐛 1 | 🌐 Solidity | 📅 2024-08-11
-* [Shakespay](https://github.com/shakesco/shakesco-contracts/) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-17
+* [Shakespay](https://github.com/shakesco/shakesco-contracts/) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-02
 * [Kriptonio](https://kriptonio.com)
 * [Stackup](https://github.com/stackup-wallet/)
 * [thirdweb](https://thirdweb.com/explore/smart-wallet)
@@ -212,7 +212,7 @@
 
 ### RPC Providers
 
-* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 915 | 🐛 1,308 | 📅 2025-08-28
+* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 916 | 🐛 1,309 | 📅 2025-08-28
 
 ### L2 Integration API
 
@@ -315,4 +315,4 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
