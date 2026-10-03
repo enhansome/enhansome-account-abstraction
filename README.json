@@ -975,7 +975,7 @@
                 "language": "TypeScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-29T22:24:20Z",
-                "open_issues": 25,
+                "open_issues": 26,
                 "owner": "pimlicolabs",
                 "repo": "alto",
                 "stars": 231,
@@ -1474,7 +1474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:21:19.921Z",
+    "last_updated": "2026-10-03T14:25:36.690Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A curated list of resources dedicated to Account Abstraction (EIP-4337)",
@@ -1483,7 +1483,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-06-09T22:38:44Z",
-      "open_issues": 813,
+      "open_issues": 814,
       "owner": "4337Mafia",
       "repo": "awesome-account-abstraction",
       "stars": 1021,
