@@ -200,7 +200,7 @@
 ### Starknet
 
 * [Argent account contracts on Starknet](https://github.com/argentlabs/argent-contracts-starknet) ⭐ 179 | 🐛 0 | 🌐 Cairo | 📅 2025-11-07
-* [Braavos account contracts including multisig and Hardware Signer](https://github.com/myBraavos/braavos-account-cairo) ⭐ 118 | 🐛 1 | 🌐 Python | 📅 2025-05-08
+* [Braavos account contracts including multisig and Hardware Signer](https://github.com/myBraavos/braavos-account-cairo) ⭐ 119 | 🐛 1 | 🌐 Python | 📅 2025-05-08
 * [Multisig wallet on StarkNet](https://github.com/eqlabs/starknet-multisig/) ⚠️ Archived
 * [Another Multisig wallet on StarkNet](https://github.com/sambarnes/cairo-multisig) ⭐ 43 | 🐛 0 | 🌐 Cairo | 📅 2022-05-28
 * [Guildly: An implementation for having guilds for on-chain games on Starknet.](https://github.com/Guildly/contracts) ⭐ 7 | 🐛 3 | 🌐 Rust | 📅 2024-02-09
@@ -212,7 +212,7 @@
 
 ### RPC Providers
 
-* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 916 | 🐛 1,309 | 📅 2025-08-28
+* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 916 | 🐛 1,311 | 📅 2025-08-28
 
 ### L2 Integration API
 
@@ -224,8 +224,8 @@
 
 ### Misc
 
-* [Example custom compressor for UserOperations](https://github.com/ethereum/research/blob/master/rollup_compression/4844_compress_complex.py) ⭐ 1,929 | 🐛 62 | 🌐 Python | 📅 2025-10-18
-  * [Example compression dictionary](https://github.com/ethereum/research/blob/master/rollup_compression/dicts.py) ⭐ 1,929 | 🐛 62 | 🌐 Python | 📅 2025-10-18
+* [Example custom compressor for UserOperations](https://github.com/ethereum/research/blob/master/rollup_compression/4844_compress_complex.py) ⭐ 1,930 | 🐛 62 | 🌐 Python | 📅 2025-10-18
+  * [Example compression dictionary](https://github.com/ethereum/research/blob/master/rollup_compression/dicts.py) ⭐ 1,930 | 🐛 62 | 🌐 Python | 📅 2025-10-18
 * [WAX Fee Calculator](https://andrewmorris.io/wax-fee-calculator/)
 
 # Projects
@@ -315,4 +315,4 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._

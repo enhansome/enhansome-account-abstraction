@@ -1248,7 +1248,7 @@
                 "open_issues": 1,
                 "owner": "myBraavos",
                 "repo": "braavos-account-cairo",
-                "stars": 118,
+                "stars": 119,
                 "topics": [
                   "2fa",
                   "3fa",
@@ -1352,7 +1352,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-08-28T14:42:04Z",
-                "open_issues": 1309,
+                "open_issues": 1311,
                 "owner": "arddluma",
                 "repo": "awesome-list-rpc-nodes-providers",
                 "stars": 916,
@@ -1442,7 +1442,7 @@
                     "open_issues": 62,
                     "owner": "ethereum",
                     "repo": "research",
-                    "stars": 1929,
+                    "stars": 1930,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:59:54.575Z"
@@ -1459,7 +1459,7 @@
                 "open_issues": 62,
                 "owner": "ethereum",
                 "repo": "research",
-                "stars": 1929,
+                "stars": 1930,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
@@ -1474,7 +1474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T14:25:36.690Z",
+    "last_updated": "2026-10-04T14:59:25.423Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A curated list of resources dedicated to Account Abstraction (EIP-4337)",
@@ -1483,7 +1483,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-06-09T22:38:44Z",
-      "open_issues": 814,
+      "open_issues": 815,
       "owner": "4337Mafia",
       "repo": "awesome-account-abstraction",
       "stars": 1021,
