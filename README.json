@@ -70,8 +70,8 @@
                 "id": 337806885,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T15:04:05Z",
-                "open_issues": 76,
+                "last_commit": "2026-10-05T03:23:07Z",
+                "open_issues": 77,
                 "owner": "safe-global",
                 "repo": "safe-core-sdk",
                 "stars": 327,
@@ -100,8 +100,8 @@
                 "id": 642965459,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T22:44:17Z",
-                "open_issues": 159,
+                "last_commit": "2026-10-05T17:36:24Z",
+                "open_issues": 158,
                 "owner": "alchemyplatform",
                 "repo": "aa-sdk",
                 "stars": 321,
@@ -175,7 +175,7 @@
                 "open_issues": 7,
                 "owner": "bcnmy",
                 "repo": "biconomy-client-sdk",
-                "stars": 85,
+                "stars": 86,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
@@ -453,7 +453,7 @@
                 "open_issues": 35,
                 "owner": "safe-fndn",
                 "repo": "safe-smart-account",
-                "stars": 2182,
+                "stars": 2183,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -478,7 +478,7 @@
                 "open_issues": 11,
                 "owner": "eth-infinitism",
                 "repo": "account-abstraction",
-                "stars": 1940,
+                "stars": 1941,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
@@ -516,7 +516,7 @@
                 "id": 616475000,
                 "language": "Solidity",
                 "license": null,
-                "last_commit": "2026-10-03T01:44:35Z",
+                "last_commit": "2026-10-05T11:17:24Z",
                 "open_issues": 2,
                 "owner": "zerodevapp",
                 "repo": "kernel",
@@ -891,8 +891,8 @@
                 "id": 597939974,
                 "language": "Rust",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-02T18:09:28Z",
-                "open_issues": 54,
+                "last_commit": "2026-10-05T17:41:53Z",
+                "open_issues": 52,
                 "owner": "alchemyplatform",
                 "repo": "rundler",
                 "stars": 390,
@@ -950,7 +950,7 @@
                 "open_issues": 53,
                 "owner": "stackup-wallet",
                 "repo": "stackup-bundler",
-                "stars": 243,
+                "stars": 241,
                 "topics": [
                   "account-abstraction",
                   "bundler",
@@ -1248,7 +1248,7 @@
                 "open_issues": 1,
                 "owner": "myBraavos",
                 "repo": "braavos-account-cairo",
-                "stars": 119,
+                "stars": 118,
                 "topics": [
                   "2fa",
                   "3fa",
@@ -1352,7 +1352,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-08-28T14:42:04Z",
-                "open_issues": 1311,
+                "open_issues": 1312,
                 "owner": "arddluma",
                 "repo": "awesome-list-rpc-nodes-providers",
                 "stars": 916,
@@ -1474,7 +1474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T14:59:25.423Z",
+    "last_updated": "2026-10-05T18:50:42.717Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A curated list of resources dedicated to Account Abstraction (EIP-4337)",
@@ -1483,10 +1483,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-06-09T22:38:44Z",
-      "open_issues": 815,
+      "open_issues": 817,
       "owner": "4337Mafia",
       "repo": "awesome-account-abstraction",
-      "stars": 1021,
+      "stars": 1020,
       "topics": [
         "account-abstraction",
         "awesome",
