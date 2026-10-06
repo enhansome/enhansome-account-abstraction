@@ -123,7 +123,7 @@
 
 ### SDK & Libraries
 
-* [argentlabs/argent-x](https://github.com/argentlabs/argent-x) ⭐ 639 | 🐛 95 | 🌐 TypeScript | 📅 2025-03-14
+* [argentlabs/argent-x](https://github.com/argentlabs/argent-x) ⭐ 638 | 🐛 95 | 🌐 TypeScript | 📅 2025-03-14
 * [eth-infinitism/bundler](https://github.com/eth-infinitism/bundler) ⭐ 397 | 🐛 15 | 🌐 TypeScript | 📅 2025-06-25
 * [safe-global/safe-core-sdk](https://github.com/safe-global/safe-core-sdk) ⭐ 327 | 🐛 77 | 🌐 TypeScript | 📅 2026-10-05
 * [alchemyplatform/aa-sdk](https://github.com/alchemyplatform/aa-sdk) ⭐ 321 | 🐛 158 | 🌐 TypeScript | 📅 2026-10-05
@@ -176,10 +176,10 @@
 * [Skandha - Typescript Implementation](https://github.com/etherspot/skandha) ⭐ 613 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-04 by Etherspot
 * [TypeScript Implementation](https://github.com/eth-infinitism/bundler) ⭐ 397 | 🐛 15 | 🌐 TypeScript | 📅 2025-06-25 by Infinitism
 * [Rundler - Rust Implementation](https://github.com/alchemyplatform/rundler/tree/main) ⭐ 390 | 🐛 52 | 🌐 Rust | 📅 2026-10-05 by Alchemy
-* [Silius - Rust Implementation](https://github.com/Vid201/silius/) ⭐ 273 | 🐛 34 | 🌐 Rust | 📅 2025-08-18 - [blog](https://hackmd.io/@Vid201/aa-bundler-rust)
+* [Silius - Rust Implementation](https://github.com/Vid201/silius/) ⭐ 272 | 🐛 34 | 🌐 Rust | 📅 2025-08-18 - [blog](https://hackmd.io/@Vid201/aa-bundler-rust)
 * [Stackup - Golang Implementation](https://github.com/stackup-wallet/stackup-bundler) ⚠️ Archived by Stackup
 * [Alto - Typescript Implementation](https://github.com/pimlicolabs/alto) ⭐ 231 | 🐛 26 | 🌐 TypeScript | 📅 2026-09-29 by Pimlico
-* [Voltaire - Python Implementation](https://github.com/candidelabs/voltaire) ⭐ 59 | 🐛 0 | 🌐 Python | 📅 2026-09-27 by Candide
+* [Voltaire - Python Implementation](https://github.com/candidelabs/voltaire) ⭐ 59 | 🐛 0 | 🌐 Python | 📅 2026-10-06 by Candide
 * [OKBund - Java Implementation](https://github.com/okx/OKBund) ⭐ 33 | 🐛 0 | 🌐 Java | 📅 2024-06-28 by OKX
 * [Transeptor - Typescript Implementation](https://github.com/transeptorlabs/transeptor-bundler) ⭐ 27 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-08 by Transeptor Labs
 
@@ -212,7 +212,7 @@
 
 ### RPC Providers
 
-* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 916 | 🐛 1,312 | 📅 2025-08-28
+* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 916 | 🐛 1,313 | 📅 2025-08-28
 
 ### L2 Integration API
 
@@ -315,4 +315,4 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
