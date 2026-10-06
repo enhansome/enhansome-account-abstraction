@@ -131,7 +131,7 @@
 * [etherspot/prime-sdk](https://github.com/etherspot/etherspot-prime-sdk) ⭐ 129 | 🐛 7 | 🌐 TypeScript | 📅 2026-01-22
 * [bcnmy/biconomy-client-sdk](https://github.com/bcnmy/biconomy-client-sdk) ⭐ 86 | 🐛 7 | 🌐 TypeScript | 📅 2024-10-11
 * [AmbireTech/signature-validator](https://github.com/AmbireTech/signature-validator/) ⭐ 68 | 🐛 1 | 🌐 Solidity | 📅 2025-09-12
-* [zerodevapp/sdk](https://github.com/zerodevapp/sdk) ⭐ 57 | 🐛 33 | 🌐 TypeScript | 📅 2026-09-04
+* [zerodevapp/sdk](https://github.com/zerodevapp/sdk) ⭐ 57 | 🐛 34 | 🌐 TypeScript | 📅 2026-10-06
 * [Braavos/efficient-secp256r1](https://github.com/myBraavos/efficient-secp256r1) ⭐ 23 | 🐛 1 | 🌐 Cairo | 📅 2023-08-28
 * [etherspot/modular-sdk](https://github.com/etherspot/etherspot-modular-sdk) ⭐ 22 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-25
 * [0xpass/0xpass](https://github.com/0xpass/0xpass) ⭐ 17 | 🐛 0 | 📅 2024-03-04
@@ -151,8 +151,8 @@
 
 ### Smart Contracts (EVM)
 
-* [Safe](https://github.com/safe-global/safe-contracts/) ⭐ 2,183 | 🐛 35 | 🌐 TypeScript | 📅 2026-09-24
-* [Infinitism](https://github.com/eth-infinitism/account-abstraction) ⭐ 1,941 | 🐛 11 | 🌐 TypeScript | 📅 2026-01-25
+* [Safe](https://github.com/safe-global/safe-contracts/) ⭐ 2,182 | 🐛 35 | 🌐 TypeScript | 📅 2026-09-24
+* [Infinitism](https://github.com/eth-infinitism/account-abstraction) ⭐ 1,940 | 🐛 11 | 🌐 TypeScript | 📅 2026-01-25
 * [Soul Wallet](https://github.com/proofofsoulprotocol/soul-wallet-contract) ⚠️ Archived
 * [ZeroDev (Kernel)](https://github.com/zerodevapp/kernel) ⭐ 254 | 🐛 2 | 🌐 Solidity | 📅 2026-10-05
 * [Ambire Wallet](https://github.com/AmbireTech/wallet/tree/development/contracts) ⭐ 238 | 🐛 5 | 🌐 JavaScript | 📅 2026-03-16
@@ -178,8 +178,8 @@
 * [Rundler - Rust Implementation](https://github.com/alchemyplatform/rundler/tree/main) ⭐ 390 | 🐛 52 | 🌐 Rust | 📅 2026-10-05 by Alchemy
 * [Silius - Rust Implementation](https://github.com/Vid201/silius/) ⭐ 272 | 🐛 34 | 🌐 Rust | 📅 2025-08-18 - [blog](https://hackmd.io/@Vid201/aa-bundler-rust)
 * [Stackup - Golang Implementation](https://github.com/stackup-wallet/stackup-bundler) ⚠️ Archived by Stackup
-* [Alto - Typescript Implementation](https://github.com/pimlicolabs/alto) ⭐ 231 | 🐛 26 | 🌐 TypeScript | 📅 2026-09-29 by Pimlico
-* [Voltaire - Python Implementation](https://github.com/candidelabs/voltaire) ⭐ 59 | 🐛 0 | 🌐 Python | 📅 2026-10-06 by Candide
+* [Alto - Typescript Implementation](https://github.com/pimlicolabs/alto) ⭐ 231 | 🐛 27 | 🌐 TypeScript | 📅 2026-10-06 by Pimlico
+* [Voltaire - Python Implementation](https://github.com/candidelabs/voltaire) ⭐ 59 | 🐛 1 | 🌐 Python | 📅 2026-10-06 by Candide
 * [OKBund - Java Implementation](https://github.com/okx/OKBund) ⭐ 33 | 🐛 0 | 🌐 Java | 📅 2024-06-28 by OKX
 * [Transeptor - Typescript Implementation](https://github.com/transeptorlabs/transeptor-bundler) ⭐ 27 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-08 by Transeptor Labs
 
