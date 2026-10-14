@@ -845,7 +845,7 @@
                 "open_issues": 13,
                 "owner": "etherspot",
                 "repo": "skandha",
-                "stars": 613,
+                "stars": 614,
                 "topics": [
                   "account-abstraction",
                   "bundler",
@@ -891,7 +891,7 @@
                 "id": 597939974,
                 "language": "Rust",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-13T16:43:46Z",
+                "last_commit": "2026-10-14T11:52:46Z",
                 "open_issues": 53,
                 "owner": "alchemyplatform",
                 "repo": "rundler",
@@ -978,7 +978,7 @@
                 "open_issues": 27,
                 "owner": "pimlicolabs",
                 "repo": "alto",
-                "stars": 232,
+                "stars": 233,
                 "topics": [
                   "erc4337",
                   "ethereum"
@@ -998,7 +998,7 @@
                 "id": 601415811,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-13T16:12:11Z",
+                "last_commit": "2026-10-13T20:23:50Z",
                 "open_issues": 1,
                 "owner": "candidelabs",
                 "repo": "voltaire",
@@ -1352,7 +1352,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-08-28T14:42:04Z",
-                "open_issues": 1320,
+                "open_issues": 1321,
                 "owner": "arddluma",
                 "repo": "awesome-list-rpc-nodes-providers",
                 "stars": 916,
@@ -1474,7 +1474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T17:08:48.529Z",
+    "last_updated": "2026-10-14T14:41:05.981Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A curated list of resources dedicated to Account Abstraction (EIP-4337)",
@@ -1483,7 +1483,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-06-09T22:38:44Z",
-      "open_issues": 825,
+      "open_issues": 826,
       "owner": "4337Mafia",
       "repo": "awesome-account-abstraction",
       "stars": 1020,
