@@ -21,7 +21,7 @@
                 "open_issues": 95,
                 "owner": "argentlabs",
                 "repo": "argent-x",
-                "stars": 639,
+                "stars": 640,
                 "topics": [
                   "argent",
                   "argent-x",
@@ -520,7 +520,7 @@
                 "open_issues": 3,
                 "owner": "zerodevapp",
                 "repo": "kernel",
-                "stars": 257,
+                "stars": 258,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
@@ -891,7 +891,7 @@
                 "id": 597939974,
                 "language": "Rust",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-20T14:06:04Z",
+                "last_commit": "2026-10-21T12:45:02Z",
                 "open_issues": 54,
                 "owner": "alchemyplatform",
                 "repo": "rundler",
@@ -974,8 +974,8 @@
                 "id": 625811453,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-20T14:28:26Z",
-                "open_issues": 28,
+                "last_commit": "2026-10-20T16:04:09Z",
+                "open_issues": 27,
                 "owner": "pimlicolabs",
                 "repo": "alto",
                 "stars": 233,
@@ -1123,7 +1123,7 @@
                 "open_issues": 0,
                 "owner": "bcnmy",
                 "repo": "biconomy-paymasters",
-                "stars": 49,
+                "stars": 50,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
@@ -1221,7 +1221,7 @@
                 "open_issues": 0,
                 "owner": "argentlabs",
                 "repo": "argent-contracts-starknet",
-                "stars": 179,
+                "stars": 180,
                 "topics": [
                   "account",
                   "argent",
@@ -1352,7 +1352,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-08-28T14:42:04Z",
-                "open_issues": 1328,
+                "open_issues": 1329,
                 "owner": "arddluma",
                 "repo": "awesome-list-rpc-nodes-providers",
                 "stars": 916,
@@ -1474,7 +1474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T14:30:26.790Z",
+    "last_updated": "2026-10-21T14:41:14.639Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A curated list of resources dedicated to Account Abstraction (EIP-4337)",
@@ -1483,7 +1483,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-06-09T22:38:44Z",
-      "open_issues": 832,
+      "open_issues": 833,
       "owner": "4337Mafia",
       "repo": "awesome-account-abstraction",
       "stars": 1021,
