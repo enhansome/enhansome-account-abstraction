@@ -70,8 +70,8 @@
                 "id": 337806885,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-22T14:36:39Z",
-                "open_issues": 82,
+                "last_commit": "2026-10-23T08:47:51Z",
+                "open_issues": 81,
                 "owner": "safe-global",
                 "repo": "safe-core-sdk",
                 "stars": 328,
@@ -330,8 +330,8 @@
                 "id": 641614498,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-09-28T10:08:34Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-23T09:37:44Z",
+                "open_issues": 6,
                 "owner": "openfort-xyz",
                 "repo": "openfort-node",
                 "stars": 10,
@@ -478,7 +478,7 @@
                 "open_issues": 12,
                 "owner": "eth-infinitism",
                 "repo": "account-abstraction",
-                "stars": 1942,
+                "stars": 1941,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
@@ -520,7 +520,7 @@
                 "open_issues": 3,
                 "owner": "zerodevapp",
                 "repo": "kernel",
-                "stars": 258,
+                "stars": 259,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
@@ -662,7 +662,7 @@
                 "open_issues": 1,
                 "owner": "candidelabs",
                 "repo": "candide-contracts",
-                "stars": 82,
+                "stars": 83,
                 "topics": [
                   "bls",
                   "eip-4337",
@@ -709,7 +709,7 @@
                 "open_issues": 2,
                 "owner": "openfort-xyz",
                 "repo": "openfort-contracts",
-                "stars": 36,
+                "stars": 35,
                 "topics": [
                   "aa",
                   "erc-4337",
@@ -891,8 +891,8 @@
                 "id": 597939974,
                 "language": "Rust",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-22T14:05:47Z",
-                "open_issues": 55,
+                "last_commit": "2026-10-23T14:10:24Z",
+                "open_issues": 54,
                 "owner": "alchemyplatform",
                 "repo": "rundler",
                 "stars": 391,
@@ -974,11 +974,11 @@
                 "id": 625811453,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-22T14:26:28Z",
-                "open_issues": 33,
+                "last_commit": "2026-10-23T13:11:32Z",
+                "open_issues": 29,
                 "owner": "pimlicolabs",
                 "repo": "alto",
-                "stars": 233,
+                "stars": 234,
                 "topics": [
                   "erc4337",
                   "ethereum"
@@ -1352,7 +1352,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-08-28T14:42:04Z",
-                "open_issues": 1331,
+                "open_issues": 1332,
                 "owner": "arddluma",
                 "repo": "awesome-list-rpc-nodes-providers",
                 "stars": 915,
@@ -1474,7 +1474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T14:41:50.120Z",
+    "last_updated": "2026-10-23T14:27:50.210Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A curated list of resources dedicated to Account Abstraction (EIP-4337)",
@@ -1483,7 +1483,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-06-09T22:38:44Z",
-      "open_issues": 834,
+      "open_issues": 835,
       "owner": "4337Mafia",
       "repo": "awesome-account-abstraction",
       "stars": 1021,
