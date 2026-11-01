@@ -128,7 +128,7 @@
 * [safe-global/safe-core-sdk](https://github.com/safe-global/safe-core-sdk) ⭐ 328 | 🐛 79 | 🌐 TypeScript | 📅 2026-10-30
 * [alchemyplatform/aa-sdk](https://github.com/alchemyplatform/aa-sdk) ⭐ 323 | 🐛 161 | 🌐 TypeScript | 📅 2026-10-05
 * [rdubois-crypto/FreshCryptoLib](https://github.com/rdubois-crypto/FreshCryptoLib) ⭐ 164 | 🐛 1 | 🌐 Solidity | 📅 2024-08-29
-* [etherspot/prime-sdk](https://github.com/etherspot/etherspot-prime-sdk) ⭐ 129 | 🐛 8 | 🌐 TypeScript | 📅 2026-01-22
+* [etherspot/prime-sdk](https://github.com/etherspot/etherspot-prime-sdk) ⭐ 128 | 🐛 8 | 🌐 TypeScript | 📅 2026-01-22
 * [bcnmy/biconomy-client-sdk](https://github.com/bcnmy/biconomy-client-sdk) ⭐ 86 | 🐛 8 | 🌐 TypeScript | 📅 2024-10-11
 * [AmbireTech/signature-validator](https://github.com/AmbireTech/signature-validator/) ⭐ 68 | 🐛 1 | 🌐 Solidity | 📅 2025-09-12
 * [zerodevapp/sdk](https://github.com/zerodevapp/sdk) ⭐ 57 | 🐛 38 | 🌐 TypeScript | 📅 2026-10-26
@@ -136,7 +136,7 @@
 * [etherspot/modular-sdk](https://github.com/etherspot/etherspot-modular-sdk) ⭐ 22 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-25
 * [0xpass/0xpass](https://github.com/0xpass/0xpass) ⭐ 17 | 🐛 0 | 📅 2024-03-04
 * [cupcakes-3/sdk](https://github.com/cupcakes-3/sdk) ⭐ 12 | 🐛 1 | 🌐 TypeScript | 📅 2022-09-25
-* [openfort-xyz/openfort-node](https://github.com/openfort-xyz/openfort-node) ⭐ 10 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-23
+* [openfort-xyz/openfort-node](https://github.com/openfort-xyz/openfort-node) ⭐ 10 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-01
 * [porco-rosso-j/zksync-account-trade-limit](https://github.com/porco-rosso-j/zksync-account-trade-limit) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2023-03-17
 * [web3well/easy-web3](https://github.com/web3well/easy-web3) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2023-08-31
 * [AmbireTech/wallet-login-sdk](https://github.com/AmbireTech/wallet-login-sdk) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2025-01-30
@@ -155,7 +155,7 @@
 * [Infinitism](https://github.com/eth-infinitism/account-abstraction) ⭐ 1,940 | 🐛 12 | 🌐 TypeScript | 📅 2026-01-25
 * [Soul Wallet](https://github.com/proofofsoulprotocol/soul-wallet-contract) ⚠️ Archived
 * [ZeroDev (Kernel)](https://github.com/zerodevapp/kernel) ⭐ 260 | 🐛 3 | 🌐 Solidity | 📅 2026-10-05
-* [Ambire Wallet](https://github.com/AmbireTech/wallet/tree/development/contracts) ⭐ 243 | 🐛 6 | 🌐 JavaScript | 📅 2026-03-16
+* [Ambire Wallet](https://github.com/AmbireTech/wallet/tree/development/contracts) ⭐ 244 | 🐛 7 | 🌐 JavaScript | 📅 2026-03-16
 * [BLS Wallet](https://github.com/web3well/bls-wallet/tree/main/contracts) ⚠️ Archived
 * [Alchemy ModularAccount](https://github.com/alchemyplatform/modular-account) ⭐ 145 | 🐛 6 | 🌐 Solidity | 📅 2026-08-06
 * [Biconomy](https://github.com/bcnmy/scw-contracts) ⭐ 135 | 🐛 0 | 🌐 TypeScript | 📅 2024-11-08
@@ -173,7 +173,7 @@
 
 ### Bundlers
 
-* [Skandha - Typescript Implementation](https://github.com/etherspot/skandha) ⭐ 614 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-04 by Etherspot
+* [Skandha - Typescript Implementation](https://github.com/etherspot/skandha) ⭐ 613 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-04 by Etherspot
 * [TypeScript Implementation](https://github.com/eth-infinitism/bundler) ⭐ 397 | 🐛 18 | 🌐 TypeScript | 📅 2025-06-25 by Infinitism
 * [Rundler - Rust Implementation](https://github.com/alchemyplatform/rundler/tree/main) ⭐ 391 | 🐛 56 | 🌐 Rust | 📅 2026-10-30 by Alchemy
 * [Silius - Rust Implementation](https://github.com/Vid201/silius/) ⭐ 273 | 🐛 34 | 🌐 Rust | 📅 2025-08-18 - [blog](https://hackmd.io/@Vid201/aa-bundler-rust)
@@ -186,7 +186,7 @@
 ### Paymasters
 
 * [Paymaster contracts](https://github.com/pimlicolabs/erc20-paymaster-contracts) ⚠️ Archived by Pimlico
-* [Arka Paymaster (open source paymaster service)](https://github.com/etherspot/arka) ⭐ 66 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-16 by Etherspot
+* [Arka Paymaster (open source paymaster service)](https://github.com/etherspot/arka) ⭐ 65 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-16 by Etherspot
 * [Paymaster Playground](https://github.com/bcnmy/biconomy-paymasters) ⭐ 50 | 🐛 0 | 🌐 TypeScript | 📅 2024-10-10 by Biconomy
 * [Python Implementation](https://github.com/candidelabs/Candide-Paymaster-RPC) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2023-05-10 by Candide
 * [Governance Paymasters (open source paymasters that operate fully on-chain)](https://github.com/meliopolis/governance-paymaster) ⭐ 0 | 🐛 0 | 🌐 Solidity | 📅 2024-04-24
@@ -212,7 +212,7 @@
 
 ### RPC Providers
 
-* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 916 | 🐛 1,340 | 📅 2025-08-28
+* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 916 | 🐛 1,341 | 📅 2025-08-28
 
 ### L2 Integration API
 
@@ -315,4 +315,4 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._

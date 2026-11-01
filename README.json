@@ -152,7 +152,7 @@
                 "open_issues": 8,
                 "owner": "etherspot",
                 "repo": "etherspot-prime-sdk",
-                "stars": 129,
+                "stars": 128,
                 "topics": [
                   "account-abstraction"
                 ]
@@ -330,8 +330,8 @@
                 "id": 641614498,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-10-23T09:37:44Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-01T05:33:07Z",
+                "open_issues": 7,
                 "owner": "openfort-xyz",
                 "repo": "openfort-node",
                 "stars": 10,
@@ -538,10 +538,10 @@
                 "language": "JavaScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-03-16T13:09:21Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "AmbireTech",
                 "repo": "wallet",
-                "stars": 243,
+                "stars": 244,
                 "topics": [
                   "aave",
                   "account-abstraction",
@@ -845,7 +845,7 @@
                 "open_issues": 13,
                 "owner": "etherspot",
                 "repo": "skandha",
-                "stars": 614,
+                "stars": 613,
                 "topics": [
                   "account-abstraction",
                   "bundler",
@@ -1099,7 +1099,7 @@
                 "open_issues": 15,
                 "owner": "etherspot",
                 "repo": "arka",
-                "stars": 66,
+                "stars": 65,
                 "topics": [
                   "account-abstraction",
                   "eip4337",
@@ -1354,7 +1354,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-08-28T14:42:04Z",
-                "open_issues": 1340,
+                "open_issues": 1341,
                 "owner": "arddluma",
                 "repo": "awesome-list-rpc-nodes-providers",
                 "stars": 916,
@@ -1476,7 +1476,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T15:30:16.053Z",
+    "last_updated": "2026-11-01T16:26:13.947Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A curated list of resources dedicated to Account Abstraction (EIP-4337)",
@@ -1485,10 +1485,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-06-09T22:38:44Z",
-      "open_issues": 843,
+      "open_issues": 844,
       "owner": "4337Mafia",
       "repo": "awesome-account-abstraction",
-      "stars": 1022,
+      "stars": 1023,
       "topics": [
         "account-abstraction",
         "awesome",
