@@ -125,13 +125,13 @@
 
 * [argentlabs/argent-x](https://github.com/argentlabs/argent-x) ⭐ 641 | 🐛 96 | 🌐 TypeScript | 📅 2025-03-14
 * [eth-infinitism/bundler](https://github.com/eth-infinitism/bundler) ⭐ 397 | 🐛 18 | 🌐 TypeScript | 📅 2025-06-25
-* [safe-global/safe-core-sdk](https://github.com/safe-global/safe-core-sdk) ⭐ 328 | 🐛 81 | 🌐 TypeScript | 📅 2026-11-04
-* [alchemyplatform/aa-sdk](https://github.com/alchemyplatform/aa-sdk) ⭐ 323 | 🐛 161 | 🌐 TypeScript | 📅 2026-10-05
+* [safe-global/safe-core-sdk](https://github.com/safe-global/safe-core-sdk) ⭐ 328 | 🐛 82 | 🌐 TypeScript | 📅 2026-11-06
+* [alchemyplatform/aa-sdk](https://github.com/alchemyplatform/aa-sdk) ⭐ 323 | 🐛 162 | 🌐 TypeScript | 📅 2026-11-06
 * [rdubois-crypto/FreshCryptoLib](https://github.com/rdubois-crypto/FreshCryptoLib) ⭐ 165 | 🐛 1 | 🌐 Solidity | 📅 2024-08-29
 * [etherspot/prime-sdk](https://github.com/etherspot/etherspot-prime-sdk) ⭐ 128 | 🐛 8 | 🌐 TypeScript | 📅 2026-01-22
 * [bcnmy/biconomy-client-sdk](https://github.com/bcnmy/biconomy-client-sdk) ⭐ 86 | 🐛 8 | 🌐 TypeScript | 📅 2024-10-11
 * [AmbireTech/signature-validator](https://github.com/AmbireTech/signature-validator/) ⭐ 68 | 🐛 1 | 🌐 Solidity | 📅 2025-09-12
-* [zerodevapp/sdk](https://github.com/zerodevapp/sdk) ⭐ 57 | 🐛 38 | 🌐 TypeScript | 📅 2026-11-05
+* [zerodevapp/sdk](https://github.com/zerodevapp/sdk) ⭐ 57 | 🐛 39 | 🌐 TypeScript | 📅 2026-11-06
 * [Braavos/efficient-secp256r1](https://github.com/myBraavos/efficient-secp256r1) ⭐ 23 | 🐛 1 | 🌐 Cairo | 📅 2023-08-28
 * [etherspot/modular-sdk](https://github.com/etherspot/etherspot-modular-sdk) ⭐ 22 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-25
 * [0xpass/0xpass](https://github.com/0xpass/0xpass) ⭐ 17 | 🐛 0 | 📅 2024-03-04
@@ -152,7 +152,7 @@
 ### Smart Contracts (EVM)
 
 * [Safe](https://github.com/safe-global/safe-contracts/) ⭐ 2,190 | 🐛 36 | 🌐 TypeScript | 📅 2026-10-30
-* [Infinitism](https://github.com/eth-infinitism/account-abstraction) ⭐ 1,940 | 🐛 12 | 🌐 TypeScript | 📅 2026-01-25
+* [Infinitism](https://github.com/eth-infinitism/account-abstraction) ⭐ 1,941 | 🐛 12 | 🌐 TypeScript | 📅 2026-01-25
 * [Soul Wallet](https://github.com/proofofsoulprotocol/soul-wallet-contract) ⚠️ Archived
 * [ZeroDev (Kernel)](https://github.com/zerodevapp/kernel) ⭐ 261 | 🐛 3 | 🌐 Solidity | 📅 2026-10-05
 * [Ambire Wallet](https://github.com/AmbireTech/wallet/tree/development/contracts) ⭐ 244 | 🐛 8 | 🌐 JavaScript | 📅 2026-11-02
@@ -212,7 +212,7 @@
 
 ### RPC Providers
 
-* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 916 | 🐛 1,345 | 📅 2025-08-28
+* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 916 | 🐛 1,346 | 📅 2025-08-28
 
 ### L2 Integration API
 
@@ -224,8 +224,8 @@
 
 ### Misc
 
-* [Example custom compressor for UserOperations](https://github.com/ethereum/research/blob/master/rollup_compression/4844_compress_complex.py) ⭐ 1,930 | 🐛 61 | 🌐 Python | 📅 2025-10-18
-  * [Example compression dictionary](https://github.com/ethereum/research/blob/master/rollup_compression/dicts.py) ⭐ 1,930 | 🐛 61 | 🌐 Python | 📅 2025-10-18
+* [Example custom compressor for UserOperations](https://github.com/ethereum/research/blob/master/rollup_compression/4844_compress_complex.py) ⭐ 1,929 | 🐛 61 | 🌐 Python | 📅 2025-10-18
+  * [Example compression dictionary](https://github.com/ethereum/research/blob/master/rollup_compression/dicts.py) ⭐ 1,929 | 🐛 61 | 🌐 Python | 📅 2025-10-18
 * [WAX Fee Calculator](https://andrewmorris.io/wax-fee-calculator/)
 
 # Projects
@@ -315,4 +315,4 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
