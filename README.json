@@ -450,7 +450,7 @@
                 "language": "TypeScript",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-10-30T09:16:45Z",
-                "open_issues": 36,
+                "open_issues": 37,
                 "owner": "safe-fndn",
                 "repo": "safe-smart-account",
                 "stars": 2189,
@@ -478,7 +478,7 @@
                 "open_issues": 12,
                 "owner": "eth-infinitism",
                 "repo": "account-abstraction",
-                "stars": 1941,
+                "stars": 1942,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
@@ -974,7 +974,7 @@
                 "id": 625811453,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-06T21:12:56Z",
+                "last_commit": "2026-11-07T20:18:01Z",
                 "open_issues": 36,
                 "owner": "pimlicolabs",
                 "repo": "alto",
@@ -998,7 +998,7 @@
                 "id": 601415811,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-28T16:21:54Z",
+                "last_commit": "2026-11-08T01:04:52Z",
                 "open_issues": 0,
                 "owner": "candidelabs",
                 "repo": "voltaire",
@@ -1354,7 +1354,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-08-28T14:42:04Z",
-                "open_issues": 1347,
+                "open_issues": 1348,
                 "owner": "arddluma",
                 "repo": "awesome-list-rpc-nodes-providers",
                 "stars": 916,
@@ -1476,7 +1476,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T15:55:39.194Z",
+    "last_updated": "2026-11-08T16:22:38.276Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A curated list of resources dedicated to Account Abstraction (EIP-4337)",
@@ -1485,7 +1485,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-06-09T22:38:44Z",
-      "open_issues": 853,
+      "open_issues": 854,
       "owner": "4337Mafia",
       "repo": "awesome-account-abstraction",
       "stars": 1024,
