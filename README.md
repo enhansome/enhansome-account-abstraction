@@ -124,7 +124,7 @@
 ### SDK & Libraries
 
 * [argentlabs/argent-x](https://github.com/argentlabs/argent-x) ⭐ 641 | 🐛 96 | 🌐 TypeScript | 📅 2025-03-14
-* [eth-infinitism/bundler](https://github.com/eth-infinitism/bundler) ⭐ 398 | 🐛 18 | 🌐 TypeScript | 📅 2025-06-25
+* [eth-infinitism/bundler](https://github.com/eth-infinitism/bundler) ⭐ 399 | 🐛 18 | 🌐 TypeScript | 📅 2025-06-25
 * [safe-global/safe-core-sdk](https://github.com/safe-global/safe-core-sdk) ⭐ 330 | 🐛 82 | 🌐 TypeScript | 📅 2026-11-13
 * [alchemyplatform/aa-sdk](https://github.com/alchemyplatform/aa-sdk) ⭐ 323 | 🐛 162 | 🌐 TypeScript | 📅 2026-11-13
 * [rdubois-crypto/FreshCryptoLib](https://github.com/rdubois-crypto/FreshCryptoLib) ⭐ 165 | 🐛 1 | 🌐 Solidity | 📅 2024-08-29
@@ -174,7 +174,7 @@
 ### Bundlers
 
 * [Skandha - Typescript Implementation](https://github.com/etherspot/skandha) ⭐ 613 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-04 by Etherspot
-* [TypeScript Implementation](https://github.com/eth-infinitism/bundler) ⭐ 398 | 🐛 18 | 🌐 TypeScript | 📅 2025-06-25 by Infinitism
+* [TypeScript Implementation](https://github.com/eth-infinitism/bundler) ⭐ 399 | 🐛 18 | 🌐 TypeScript | 📅 2025-06-25 by Infinitism
 * [Rundler - Rust Implementation](https://github.com/alchemyplatform/rundler/tree/main) ⭐ 392 | 🐛 55 | 🌐 Rust | 📅 2026-11-11 by Alchemy
 * [Silius - Rust Implementation](https://github.com/Vid201/silius/) ⭐ 273 | 🐛 34 | 🌐 Rust | 📅 2025-08-18 - [blog](https://hackmd.io/@Vid201/aa-bundler-rust)
 * [Stackup - Golang Implementation](https://github.com/stackup-wallet/stackup-bundler) ⚠️ Archived by Stackup
@@ -212,7 +212,7 @@
 
 ### RPC Providers
 
-* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 917 | 🐛 1,354 | 📅 2025-08-28
+* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 917 | 🐛 1,355 | 📅 2025-08-28
 
 ### L2 Integration API
 
@@ -315,4 +315,4 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
