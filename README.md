@@ -125,8 +125,8 @@
 
 * [argentlabs/argent-x](https://github.com/argentlabs/argent-x) ⭐ 641 | 🐛 96 | 🌐 TypeScript | 📅 2025-03-14
 * [eth-infinitism/bundler](https://github.com/eth-infinitism/bundler) ⭐ 399 | 🐛 18 | 🌐 TypeScript | 📅 2025-06-25
-* [safe-global/safe-core-sdk](https://github.com/safe-global/safe-core-sdk) ⭐ 330 | 🐛 82 | 🌐 TypeScript | 📅 2026-11-13
-* [alchemyplatform/aa-sdk](https://github.com/alchemyplatform/aa-sdk) ⭐ 323 | 🐛 162 | 🌐 TypeScript | 📅 2026-11-13
+* [safe-global/safe-core-sdk](https://github.com/safe-global/safe-core-sdk) ⭐ 331 | 🐛 83 | 🌐 TypeScript | 📅 2026-11-16
+* [alchemyplatform/aa-sdk](https://github.com/alchemyplatform/aa-sdk) ⭐ 323 | 🐛 162 | 🌐 TypeScript | 📅 2026-11-16
 * [rdubois-crypto/FreshCryptoLib](https://github.com/rdubois-crypto/FreshCryptoLib) ⭐ 165 | 🐛 1 | 🌐 Solidity | 📅 2024-08-29
 * [etherspot/prime-sdk](https://github.com/etherspot/etherspot-prime-sdk) ⭐ 128 | 🐛 8 | 🌐 TypeScript | 📅 2026-01-22
 * [bcnmy/biconomy-client-sdk](https://github.com/bcnmy/biconomy-client-sdk) ⭐ 86 | 🐛 8 | 🌐 TypeScript | 📅 2024-10-11
@@ -152,7 +152,7 @@
 ### Smart Contracts (EVM)
 
 * [Safe](https://github.com/safe-global/safe-contracts/) ⭐ 2,192 | 🐛 36 | 🌐 TypeScript | 📅 2026-10-30
-* [Infinitism](https://github.com/eth-infinitism/account-abstraction) ⭐ 1,944 | 🐛 12 | 🌐 TypeScript | 📅 2026-01-25
+* [Infinitism](https://github.com/eth-infinitism/account-abstraction) ⭐ 1,943 | 🐛 12 | 🌐 TypeScript | 📅 2026-01-25
 * [Soul Wallet](https://github.com/proofofsoulprotocol/soul-wallet-contract) ⚠️ Archived
 * [ZeroDev (Kernel)](https://github.com/zerodevapp/kernel) ⭐ 261 | 🐛 3 | 🌐 Solidity | 📅 2026-10-05
 * [Ambire Wallet](https://github.com/AmbireTech/wallet/tree/development/contracts) ⭐ 245 | 🐛 8 | 🌐 JavaScript | 📅 2026-11-02
@@ -186,7 +186,7 @@
 ### Paymasters
 
 * [Paymaster contracts](https://github.com/pimlicolabs/erc20-paymaster-contracts) ⚠️ Archived by Pimlico
-* [Arka Paymaster (open source paymaster service)](https://github.com/etherspot/arka) ⭐ 65 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-16 by Etherspot
+* [Arka Paymaster (open source paymaster service)](https://github.com/etherspot/arka) ⭐ 65 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-16 by Etherspot
 * [Paymaster Playground](https://github.com/bcnmy/biconomy-paymasters) ⭐ 50 | 🐛 0 | 🌐 TypeScript | 📅 2024-10-10 by Biconomy
 * [Python Implementation](https://github.com/candidelabs/Candide-Paymaster-RPC) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2023-05-10 by Candide
 * [Governance Paymasters (open source paymasters that operate fully on-chain)](https://github.com/meliopolis/governance-paymaster) ⭐ 0 | 🐛 0 | 🌐 Solidity | 📅 2024-04-24
@@ -212,7 +212,7 @@
 
 ### RPC Providers
 
-* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 917 | 🐛 1,355 | 📅 2025-08-28
+* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 917 | 🐛 1,356 | 📅 2025-08-28
 
 ### L2 Integration API
 
@@ -315,4 +315,4 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._

@@ -70,11 +70,11 @@
                 "id": 337806885,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-13T12:07:31Z",
-                "open_issues": 82,
+                "last_commit": "2026-11-16T15:27:29Z",
+                "open_issues": 83,
                 "owner": "safe-global",
                 "repo": "safe-core-sdk",
-                "stars": 330,
+                "stars": 331,
                 "topics": [
                   "abstraction",
                   "account",
@@ -100,7 +100,7 @@
                 "id": 642965459,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-13T11:03:10Z",
+                "last_commit": "2026-11-16T18:56:57Z",
                 "open_issues": 162,
                 "owner": "alchemyplatform",
                 "repo": "aa-sdk",
@@ -478,7 +478,7 @@
                 "open_issues": 12,
                 "owner": "eth-infinitism",
                 "repo": "account-abstraction",
-                "stars": 1944,
+                "stars": 1943,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
@@ -1096,7 +1096,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-16T15:41:25Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "etherspot",
                 "repo": "arka",
                 "stars": 65,
@@ -1354,7 +1354,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-08-28T14:42:04Z",
-                "open_issues": 1355,
+                "open_issues": 1356,
                 "owner": "arddluma",
                 "repo": "awesome-list-rpc-nodes-providers",
                 "stars": 917,
@@ -1476,7 +1476,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T16:37:25.460Z",
+    "last_updated": "2026-11-16T19:52:42.746Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A curated list of resources dedicated to Account Abstraction (EIP-4337)",
@@ -1485,10 +1485,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-06-09T22:38:44Z",
-      "open_issues": 861,
+      "open_issues": 862,
       "owner": "4337Mafia",
       "repo": "awesome-account-abstraction",
-      "stars": 1024,
+      "stars": 1023,
       "topics": [
         "account-abstraction",
         "awesome",
