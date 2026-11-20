@@ -74,7 +74,7 @@
                 "open_issues": 83,
                 "owner": "safe-global",
                 "repo": "safe-core-sdk",
-                "stars": 331,
+                "stars": 330,
                 "topics": [
                   "abstraction",
                   "account",
@@ -453,7 +453,7 @@
                 "open_issues": 36,
                 "owner": "safe-fndn",
                 "repo": "safe-smart-account",
-                "stars": 2192,
+                "stars": 2193,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -478,7 +478,7 @@
                 "open_issues": 12,
                 "owner": "eth-infinitism",
                 "repo": "account-abstraction",
-                "stars": 1943,
+                "stars": 1944,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
@@ -891,11 +891,11 @@
                 "id": 597939974,
                 "language": "Rust",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-11-19T14:00:24Z",
-                "open_issues": 54,
+                "last_commit": "2026-11-20T16:02:49Z",
+                "open_issues": 57,
                 "owner": "alchemyplatform",
                 "repo": "rundler",
-                "stars": 392,
+                "stars": 391,
                 "topics": [
                   "erc4337",
                   "ethereum",
@@ -974,7 +974,7 @@
                 "id": 625811453,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-19T16:18:58Z",
+                "last_commit": "2026-11-20T15:59:43Z",
                 "open_issues": 38,
                 "owner": "pimlicolabs",
                 "repo": "alto",
@@ -1354,7 +1354,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-08-28T14:42:04Z",
-                "open_issues": 1360,
+                "open_issues": 1361,
                 "owner": "arddluma",
                 "repo": "awesome-list-rpc-nodes-providers",
                 "stars": 917,
@@ -1476,7 +1476,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T18:41:15.155Z",
+    "last_updated": "2026-11-20T18:01:37.361Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A curated list of resources dedicated to Account Abstraction (EIP-4337)",
@@ -1485,10 +1485,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-06-09T22:38:44Z",
-      "open_issues": 865,
+      "open_issues": 866,
       "owner": "4337Mafia",
       "repo": "awesome-account-abstraction",
-      "stars": 1023,
+      "stars": 1024,
       "topics": [
         "account-abstraction",
         "awesome",
