@@ -152,17 +152,17 @@
 ### Smart Contracts (EVM)
 
 * [Safe](https://github.com/safe-global/safe-contracts/) ⭐ 2,194 | 🐛 36 | 🌐 TypeScript | 📅 2026-10-30
-* [Infinitism](https://github.com/eth-infinitism/account-abstraction) ⭐ 1,944 | 🐛 12 | 🌐 TypeScript | 📅 2026-01-25
+* [Infinitism](https://github.com/eth-infinitism/account-abstraction) ⭐ 1,944 | 🐛 13 | 🌐 TypeScript | 📅 2026-01-25
 * [Soul Wallet](https://github.com/proofofsoulprotocol/soul-wallet-contract) ⚠️ Archived
 * [ZeroDev (Kernel)](https://github.com/zerodevapp/kernel) ⭐ 261 | 🐛 3 | 🌐 Solidity | 📅 2026-10-05
 * [Ambire Wallet](https://github.com/AmbireTech/wallet/tree/development/contracts) ⭐ 245 | 🐛 8 | 🌐 JavaScript | 📅 2026-11-02
 * [BLS Wallet](https://github.com/web3well/bls-wallet/tree/main/contracts) ⚠️ Archived
-* [Alchemy ModularAccount](https://github.com/alchemyplatform/modular-account) ⭐ 145 | 🐛 6 | 🌐 Solidity | 📅 2026-08-06
+* [Alchemy ModularAccount](https://github.com/alchemyplatform/modular-account) ⭐ 145 | 🐛 5 | 🌐 Solidity | 📅 2026-08-06
 * [Biconomy](https://github.com/bcnmy/scw-contracts) ⭐ 135 | 🐛 0 | 🌐 TypeScript | 📅 2024-11-08
 * [Alchemy LightAccount](https://github.com/alchemyplatform/light-account/) ⭐ 116 | 🐛 5 | 🌐 Solidity | 📅 2026-08-11
 * [Candide Wallet](https://github.com/candidelabs/CandideWalletContracts) ⭐ 83 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-30
 * [Etherspot](https://github.com/etherspot/etherspot-prime-contracts) ⭐ 55 | 🐛 8 | 🌐 TypeScript | 📅 2025-04-17
-* [Openfort](https://github.com/openfort-xyz/openfort-contracts) ⭐ 36 | 🐛 3 | 🌐 Solidity | 📅 2026-11-22
+* [Openfort](https://github.com/openfort-xyz/openfort-contracts) ⭐ 36 | 🐛 2 | 🌐 Solidity | 📅 2026-11-22
 * [Forum Wallet](https://github.com/forumdaos/forum-contracts) ⭐ 20 | 🐛 0 | 🌐 Solidity | 📅 2024-08-30
 * [Patch Wallet](https://github.com/PaymagicXYZ/patch-base-account-contracts) ⭐ 15 | 🐛 1 | 🌐 Solidity | 📅 2023-10-05
 * [TrueWallet](https://github.com/TrueWallet/contracts) ⭐ 9 | 🐛 1 | 🌐 Solidity | 📅 2024-08-11
@@ -175,10 +175,10 @@
 
 * [Skandha - Typescript Implementation](https://github.com/etherspot/skandha) ⭐ 613 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-04 by Etherspot
 * [TypeScript Implementation](https://github.com/eth-infinitism/bundler) ⭐ 400 | 🐛 18 | 🌐 TypeScript | 📅 2025-06-25 by Infinitism
-* [Rundler - Rust Implementation](https://github.com/alchemyplatform/rundler/tree/main) ⭐ 391 | 🐛 56 | 🌐 Rust | 📅 2026-11-20 by Alchemy
+* [Rundler - Rust Implementation](https://github.com/alchemyplatform/rundler/tree/main) ⭐ 391 | 🐛 53 | 🌐 Rust | 📅 2026-11-23 by Alchemy
 * [Silius - Rust Implementation](https://github.com/Vid201/silius/) ⭐ 273 | 🐛 34 | 🌐 Rust | 📅 2025-08-18 - [blog](https://hackmd.io/@Vid201/aa-bundler-rust)
 * [Stackup - Golang Implementation](https://github.com/stackup-wallet/stackup-bundler) ⚠️ Archived by Stackup
-* [Alto - Typescript Implementation](https://github.com/pimlicolabs/alto) ⭐ 234 | 🐛 38 | 🌐 TypeScript | 📅 2026-11-20 by Pimlico
+* [Alto - Typescript Implementation](https://github.com/pimlicolabs/alto) ⭐ 234 | 🐛 39 | 🌐 TypeScript | 📅 2026-11-20 by Pimlico
 * [Voltaire - Python Implementation](https://github.com/candidelabs/voltaire) ⭐ 60 | 🐛 0 | 🌐 Python | 📅 2026-11-08 by Candide
 * [OKBund - Java Implementation](https://github.com/okx/OKBund) ⭐ 33 | 🐛 0 | 🌐 Java | 📅 2024-06-28 by OKX
 * [Transeptor - Typescript Implementation](https://github.com/transeptorlabs/transeptor-bundler) ⭐ 27 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-26 by Transeptor Labs
@@ -212,7 +212,7 @@
 
 ### RPC Providers
 
-* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 917 | 🐛 1,363 | 📅 2025-08-28
+* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 917 | 🐛 1,364 | 📅 2025-08-28
 
 ### L2 Integration API
 
@@ -315,4 +315,4 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
