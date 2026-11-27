@@ -152,7 +152,7 @@
 ### Smart Contracts (EVM)
 
 * [Safe](https://github.com/safe-global/safe-contracts/) ⭐ 2,194 | 🐛 36 | 🌐 TypeScript | 📅 2026-10-30
-* [Infinitism](https://github.com/eth-infinitism/account-abstraction) ⭐ 1,943 | 🐛 13 | 🌐 TypeScript | 📅 2026-01-25
+* [Infinitism](https://github.com/eth-infinitism/account-abstraction) ⭐ 1,944 | 🐛 13 | 🌐 TypeScript | 📅 2026-01-25
 * [Soul Wallet](https://github.com/proofofsoulprotocol/soul-wallet-contract) ⚠️ Archived
 * [ZeroDev (Kernel)](https://github.com/zerodevapp/kernel) ⭐ 261 | 🐛 3 | 🌐 Solidity | 📅 2026-10-05
 * [Ambire Wallet](https://github.com/AmbireTech/wallet/tree/development/contracts) ⭐ 245 | 🐛 8 | 🌐 JavaScript | 📅 2026-11-02
@@ -212,7 +212,7 @@
 
 ### RPC Providers
 
-* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 917 | 🐛 1,367 | 📅 2025-08-28
+* [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers) ⭐ 917 | 🐛 1,368 | 📅 2025-08-28
 
 ### L2 Integration API
 
@@ -315,4 +315,4 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._

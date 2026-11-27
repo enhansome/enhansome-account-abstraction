@@ -478,7 +478,7 @@
                 "open_issues": 13,
                 "owner": "eth-infinitism",
                 "repo": "account-abstraction",
-                "stars": 1943,
+                "stars": 1944,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:54.575Z"
@@ -1354,7 +1354,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-08-28T14:42:04Z",
-                "open_issues": 1367,
+                "open_issues": 1368,
                 "owner": "arddluma",
                 "repo": "awesome-list-rpc-nodes-providers",
                 "stars": 917,
@@ -1476,7 +1476,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T19:17:46.232Z",
+    "last_updated": "2026-11-27T19:11:33.129Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A curated list of resources dedicated to Account Abstraction (EIP-4337)",
@@ -1485,7 +1485,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-06-09T22:38:44Z",
-      "open_issues": 874,
+      "open_issues": 875,
       "owner": "4337Mafia",
       "repo": "awesome-account-abstraction",
       "stars": 1024,
